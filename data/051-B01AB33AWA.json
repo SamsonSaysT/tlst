@@ -1,0 +1,150 @@
+{
+  "id": 51,
+  "name": "Grundéns Men’s Neptune Fishing Jacket",
+  "brand": "Grundéns",
+  "category": "Clothing & rain",
+  "url": "https://www.amazon.com/dp/B01AB33AWA",
+  "store": "Amazon",
+  "tags": [
+    "Rain jacket",
+    "Fishing",
+    "Hood",
+    "Men’s",
+    "Heavy-duty style",
+    "Wearable",
+    "Captured page",
+    "Photo gallery"
+  ],
+  "description": "A full-zip hooded rain jacket from the Neptune fishing range.",
+  "why": "A wet-weather shell to pair with the matching bibs.",
+  "note": "Fishing rainwear is a different design category from a highly breathable hiking shell. Compare pack weight and ventilation.",
+  "specs": {
+    "Selected Size": "X-Large",
+    "Selected Color": "Black"
+  },
+  "weight_g": null,
+  "price": 109.99,
+  "priceKind": "capture",
+  "priceSource": "Amazon",
+  "priceDate": "2026-10-05",
+  "nameSource": "Matched to user-provided product-page capture",
+  "checked": "2026-10-05",
+  "availability": "Not extracted from this capture",
+  "audit": "Product-page capture from Oct 5, 2026 at 11:39 PM ET. Matched by product/model name; the selected option may differ from the original shared screenshot. The capture is evidence of what the page displayed, not an independent test or a live price check.",
+  "priceSourceUrl": "https://www.amazon.com/dp/B01AB33AWA",
+  "priceNote": "Price shown when the page was saved, not a live checkout quote. Captured option — Size: X-Large · Color: Black. Tax, shipping and other options may differ.",
+  "related": [
+    28,
+    29,
+    37,
+    38
+  ],
+  "originalUrl": "https://a.co/d/0j2DQaNa",
+  "capturedUrl": "https://www.amazon.com/dp/B01AB33AWA",
+  "productId": "B01AB33AWA",
+  "listingTitle": "Grundéns Men’s Neptune Fishing Jacket",
+  "capture": {
+    "date": "2026-10-05",
+    "capturedAt": "2026-10-06T03:39:16.254Z",
+    "localTime": "Oct 5, 2026 · 11:39 PM ET",
+    "site": "amazon",
+    "productId": "B01AB33AWA",
+    "url": "https://www.amazon.com/dp/B01AB33AWA",
+    "listingTitle": "Grundéns Men’s Neptune Fishing Jacket",
+    "priceText": "$109.99",
+    "selected": {
+      "Size": "X-Large",
+      "Color": "Black"
+    },
+    "ratingText": "4.6 4.6 out of 5 stars",
+    "reviewText": "(1,005)",
+    "seller": "",
+    "specifications": {
+      "Item model number": "10079",
+      "Department": "mens",
+      "Date First Available": "January 7, 2016",
+      "Manufacturer": "Grundéns",
+      "ASIN": "B01AB33AUW"
+    },
+    "bullets": [],
+    "description": "",
+    "issues": [],
+    "sourceArchive": "amazon capture / B01AB33AWA",
+    "aiOverviewExcluded": false
+  },
+  "weightNote": "No unambiguous comparable weight assigned; see the captured fields and notes.",
+  "gallery": [
+    {
+      "width": 763,
+      "height": 1280,
+      "originalWidth": 894,
+      "originalHeight": 1500,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61i+0sfvWaL._AC_SL1500_.jpg",
+      "group": 1,
+      "caption": "Gallery image 1",
+      "lowResolution": false,
+      "preferredUrl": "https://m.media-amazon.com/images/I/61i+0sfvWaL._AC_SL1500_.jpg",
+      "src": "assets/051-01.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41w-lU6MPJL._AC_SR38,50_.jpg",
+      "group": 2,
+      "caption": "Gallery image 2",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81e1O8gfD7L._AC_SL1500_.jpg",
+      "src": "assets/051-02.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51S0E3z56XL._AC_SR38,50_.jpg",
+      "group": 3,
+      "caption": "Gallery image 3",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81C4Lqag6HL._AC_SL1500_.jpg",
+      "src": "assets/051-03.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51Wxp6DkEfL._AC_SR38,50_.jpg",
+      "group": 4,
+      "caption": "Gallery image 4",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/8135vBR4eeL._AC_SL1500_.jpg",
+      "src": "assets/051-04.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41Jy71NDf6L._AC_SR38,50_.jpg",
+      "group": 5,
+      "caption": "Gallery image 5",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71MsZ7My78L._AC_SL1500_.jpg",
+      "src": "assets/051-05.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31UkMlaunlL._AC_SR38,50_.jpg",
+      "group": 6,
+      "caption": "Gallery image 6",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/61q5d3n3MaL._AC_SL1500_.jpg",
+      "src": "assets/051-06.webp"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": 41,
+  "name": "Indera Men’s Heavyweight Cotton Waffle Long Johns",
+  "brand": "Indera",
+  "category": "Clothing & rain",
+  "url": "https://www.amazon.com/dp/B000XRM9UO",
+  "store": "Amazon",
+  "tags": [
+    "Base layer",
+    "Cotton",
+    "Men’s",
+    "Dry camp use",
+    "Cold-weather gear",
+    "Captured page",
+    "Photo gallery"
+  ],
+  "description": "Cotton waffle-knit thermal underwear bottoms in a traditional long-john shape.",
+  "why": "A dry camp or casual cold-weather layer to compare against performance base layers.",
+  "note": "Cotton is not the default choice for wet or sweaty cold-weather hiking. Keep a dry change and choose layers for conditions.",
+  "specs": {
+    "Selected Size": "Large",
+    "Selected Color": "Natural"
+  },
+  "weight_g": null,
+  "price": 14.99,
+  "priceKind": "capture",
+  "priceSource": "Amazon",
+  "priceDate": "2026-10-05",
+  "nameSource": "Matched to user-provided product-page capture",
+  "checked": "2026-10-05",
+  "availability": "Only 1 left in stock - order soon.",
+  "audit": "Product-page capture from Oct 5, 2026 at 11:36 PM ET. Matched by product/model name; the selected option may differ from the original shared screenshot. The capture is evidence of what the page displayed, not an independent test or a live price check.",
+  "priceSourceUrl": "https://www.amazon.com/dp/B000XRM9UO",
+  "priceNote": "Price shown when the page was saved, not a live checkout quote. Captured option — Size: Large · Color: Natural. Tax, shipping and other options may differ.",
+  "related": [
+    28,
+    29,
+    37,
+    38
+  ],
+  "originalUrl": "https://a.co/d/0fq9n0A0",
+  "capturedUrl": "https://www.amazon.com/dp/B000XRM9UO",
+  "productId": "B000XRM9UO",
+  "listingTitle": "Indera Men's Heavyweight Cotton Waffle Long Johns Thermal Underwear Bottom",
+  "capture": {
+    "date": "2026-10-05",
+    "capturedAt": "2026-10-06T03:36:39.431Z",
+    "localTime": "Oct 5, 2026 · 11:36 PM ET",
+    "site": "amazon",
+    "productId": "B000XRM9UO",
+    "url": "https://www.amazon.com/dp/B000XRM9UO",
+    "listingTitle": "Indera Men's Heavyweight Cotton Waffle Long Johns Thermal Underwear Bottom",
+    "priceText": "$14.99",
+    "selected": {
+      "Size": "Large",
+      "Color": "Natural"
+    },
+    "ratingText": "4.3 4.3 out of 5 stars",
+    "reviewText": "(1,735)",
+    "seller": "",
+    "specifications": {
+      "Package Dimensions": "12.01 x 10.63 x 2.17 inches; 10.62 ounces",
+      "Department": "mens",
+      "Date First Available": "February 25, 2025",
+      "Manufacturer": "Indera",
+      "ASIN": "B0DYFDRYF1"
+    },
+    "bullets": [],
+    "description": "Stay warm from the ground up with the Indera Men’s Heavyweight Cotton Waffle Long Johns Thermal Underwear Bottom. Made from 100% cotton waffle knit fabric, these classic thermal bottoms are designed to trap and retain body heat, keeping you warm in very cold conditions. The heavyweight waffle weave balances insulation with breathability for lasting comfort whether you’re working outside, layering for winter sports, or relaxing at home. Soft cotton construction feels comfortable against the skin, while rib-knit ankle cuffs help seal in warmth and stay secure under boots or outerwear. Built with durable stitching and a tagless label to reduce irritation, these thermal bottoms are made for long-lasting wear. Available in both Regular and Tall sizes, they are an essential base layer for work, outdoor adventures, or casual cold-weather comfort—also making them a practical winter gift.",
+    "issues": [],
+    "sourceArchive": "amazon capture / B000XRM9UO",
+    "aiOverviewExcluded": false
+  },
+  "weightNote": "No unambiguous comparable weight assigned; see the captured fields and notes.",
+  "gallery": [
+    {
+      "width": 676,
+      "height": 1280,
+      "originalWidth": 792,
+      "originalHeight": 1500,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71oje+qOWLL._AC_SL1500_.jpg",
+      "group": 1,
+      "caption": "Gallery image 1",
+      "lowResolution": false,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71oje+qOWLL._AC_SL1500_.jpg",
+      "src": "assets/041-01.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31+rXyxmbjL._AC_SR38,50_.jpg",
+      "group": 2,
+      "caption": "Gallery image 2",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71AKBWzV5YL._AC_SL1500_.jpg",
+      "src": "assets/041-02.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31nfyRAYQyL._AC_SR38,50_.jpg",
+      "group": 3,
+      "caption": "Gallery image 3",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71-E-GJwm8L._AC_SL1500_.jpg",
+      "src": "assets/041-03.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41BJ76O80KL._AC_SR38,50_.jpg",
+      "group": 4,
+      "caption": "Gallery image 4",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/913q4YZtxKL._AC_SL1500_.jpg",
+      "src": "assets/041-04.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31WSc80IkJL._AC_SR38,50_.jpg",
+      "group": 5,
+      "caption": "Gallery image 5",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/514FKtQtNwL._AC_SL1080_.jpg",
+      "src": "assets/041-05.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51axQNoDWJL._AC_SR38,50_.jpg",
+      "group": 6,
+      "caption": "Gallery image 6",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/51axQNoDWJL._AC_.jpg",
+      "src": "assets/041-06.webp"
+    }
+  ]
+}

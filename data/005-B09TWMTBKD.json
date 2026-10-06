@@ -1,0 +1,156 @@
+{
+  "id": 5,
+  "name": "Crazy Creek HEX 2.0 LongBack Chair",
+  "brand": "Crazy Creek",
+  "category": "Camp comfort",
+  "url": "https://www.amazon.com/dp/B09TWMTBKD",
+  "store": "Amazon",
+  "tags": [
+    "Chair",
+    "Ground seat",
+    "Backrest",
+    "Rollable",
+    "Camp comfort",
+    "Captured page",
+    "Photo gallery"
+  ],
+  "description": "A legless fabric chair with a longer back, side adjustment straps and support stays.",
+  "why": "Back support on a campsite floor, rock or bleacher without assembling a legged chair.",
+  "note": "The current brand page specifies carbon-reinforced fiberglass stays, not solid carbon-fiber rods. Check the exact revision; this is a ground-level seat.",
+  "specs": {
+    "Selected Size": "Longback",
+    "Selected Color": "Copper/Slate",
+    "Product Dimensions": "16.5 x 17.5 x 21 inches; 8.96 ounces"
+  },
+  "weight_g": 658,
+  "price": 79.95,
+  "priceKind": "capture",
+  "priceSource": "Amazon",
+  "priceDate": "2026-10-05",
+  "nameSource": "Matched to user-provided product-page capture",
+  "checked": "2026-10-05",
+  "availability": "In Stock",
+  "audit": "Product-page capture from Oct 5, 2026 at 11:23 PM ET. Matched by product/model name; the selected option may differ from the original shared screenshot. The capture is evidence of what the page displayed, not an independent test or a live price check.",
+  "priceSourceUrl": "https://www.amazon.com/dp/B09TWMTBKD",
+  "priceNote": "Price shown when the page was saved, not a live checkout quote. Captured option — Size: Longback · Color: Copper/Slate. Tax, shipping and other options may differ.",
+  "related": [
+    3,
+    4,
+    22
+  ],
+  "originalUrl": "https://a.co/d/00tiU0pF",
+  "capturedUrl": "https://www.amazon.com/dp/B09TWMTBKD",
+  "productId": "B09TWMTBKD",
+  "listingTitle": "Crazy Creek HEX 2.0 LongBack Chair for Backpacking, Camping and Stadium Use, Extra Width & Back Height for Comfort, 250 LBS Weight Capacity, Adjustable Straps w/Rock Lockster (R) Buckles",
+  "capture": {
+    "date": "2026-10-05",
+    "capturedAt": "2026-10-06T03:23:54.387Z",
+    "localTime": "Oct 5, 2026 · 11:23 PM ET",
+    "site": "amazon",
+    "productId": "B09TWMTBKD",
+    "url": "https://www.amazon.com/dp/B09TWMTBKD",
+    "listingTitle": "Crazy Creek HEX 2.0 LongBack Chair for Backpacking, Camping and Stadium Use, Extra Width & Back Height for Comfort, 250 LBS Weight Capacity, Adjustable Straps w/Rock Lockster (R) Buckles",
+    "priceText": "$79.95",
+    "selected": {
+      "Size": "Longback",
+      "Color": "Copper/Slate"
+    },
+    "ratingText": "4.5 4.5 out of 5 stars",
+    "reviewText": "(138)",
+    "seller": "",
+    "specifications": {
+      "Product Dimensions": "16.5 x 17.5 x 21 inches; 8.96 ounces",
+      "Item model number": "HEX 2.0",
+      "Date First Available": "March 1, 2022",
+      "Manufacturer": "Crazy Creek Products",
+      "ASIN": "B09TWMTBKD"
+    },
+    "bullets": [
+      "SPACE-SAVING LONGBACK CHAIR FOR RUGGED TERRAINS - Tried and tested to withstand the most extreme climates, Crazy Creek's HEX 2.0 LongBack Chair has extra width and back height, to ensure more expansive comfort. Features a practical and functional design that provides ultralight seating no matter the environment. *Logo placement may vary",
+      "VERSATILE, TAKE IT WHEREVER YOU GO - It rolls up compactly to only 4\" diameter and fits easily in your bag. Can be used in multiple terrains from sand, gravel, dirt and more, its also great as a stadium seat. Suitable for camping, day hikes, picnics, pool parties, or a day at the beach.",
+      "ADJUST TO YOUR COMFORT - Features tight-knit straps with adjustable Rock Lockster (R) buckles on both sides that can turn your chair into a recliner, allowing you to rest your back in between adventures. With 250 lbs weight capacity, it provides maximum support & stability. Available in 3 sizes! Original, LongBack and PowerLounger",
+      "WATER-RESISTANT - The outer shell of 210D coated ripstop nylon protects from wet ground and the inner shell of 70D coated ripstop nylon provides ample insulation, and is totally sealed from sand and dirt. Perfect for mountains, riverbanks, beaches and campsites.",
+      "35 YEARS OF OUTDOOR SEATING - Constructed with improved 8mm high-density cored EVA closed-cell foam padding for comfort without the added bulk, and virtually unbreakable carbon-fiber support stays, this camping chair is built to withstand the test of time, which is why we offer a LIFETIME WARRANTY!",
+      "Item shape: Rectangular"
+    ],
+    "description": "",
+    "issues": [],
+    "sourceArchive": "amazon capture / B09TWMTBKD",
+    "aiOverviewExcluded": false
+  },
+  "weightNote": "Captured retailer Item Weight, not independently measured.",
+  "gallery": [
+    {
+      "width": 1178,
+      "height": 1280,
+      "originalWidth": 1380,
+      "originalHeight": 1500,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71D4zU0ZHYL._AC_SL1500_.jpg",
+      "group": 1,
+      "caption": "Gallery image 1",
+      "lowResolution": false,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71D4zU0ZHYL._AC_SL1500_.jpg",
+      "src": "assets/005-01.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41XQa0OEOZL._AC_US40_.jpg",
+      "group": 2,
+      "caption": "Gallery image 2",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/61h63vcrrGL._AC_SL1024_.jpg",
+      "src": "assets/005-02.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41rahDm9d5L._AC_US40_.jpg",
+      "group": 3,
+      "caption": "Gallery image 3",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71Q6CLjvjVL._AC_SL1500_.jpg",
+      "src": "assets/005-03.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31BJYFuD9jL._AC_US40_.jpg",
+      "group": 4,
+      "caption": "Gallery image 4",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/61qjXMHIr3L._AC_SL1500_.jpg",
+      "src": "assets/005-04.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51KkWhTQEGL._AC_US40_.jpg",
+      "group": 5,
+      "caption": "Gallery image 5",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/91EKdryHvAL._AC_SL1500_.jpg",
+      "src": "assets/005-05.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41d9CjpoFmL._AC_US40_.jpg",
+      "group": 6,
+      "caption": "Gallery image 6",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71vSqckdv1L._AC_SL1500_.jpg",
+      "src": "assets/005-06.webp"
+    }
+  ]
+}

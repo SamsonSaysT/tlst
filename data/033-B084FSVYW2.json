@@ -1,0 +1,149 @@
+{
+  "id": 33,
+  "name": "Frelaxy Compression Stuff Sack",
+  "brand": "Frelaxy",
+  "category": "Packs & storage",
+  "url": "https://www.amazon.com/dp/B084FSVYW2",
+  "store": "Amazon",
+  "tags": [
+    "Compression sack",
+    "Organization",
+    "Sleeping bag storage",
+    "Multiple sizes",
+    "Pack organization",
+    "Captured page",
+    "Photo gallery"
+  ],
+  "description": "A drawstring stuff sack with straps that compress bulky soft equipment.",
+  "why": "Organizing a sleeping bag or clothing bundle when space is tight.",
+  "note": "Choose a size that fits your gear before compression. Water-resistant is not the same as a waterproof dry bag.",
+  "specs": {
+    "Selected Size": "Small",
+    "Selected Color": "Black",
+    "Product Dimensions": "18 x 7 x 3 inches; 2.82 ounces"
+  },
+  "weight_g": null,
+  "price": 16.99,
+  "priceKind": "capture",
+  "priceSource": "Amazon",
+  "priceDate": "2026-10-05",
+  "nameSource": "Matched to user-provided product-page capture",
+  "checked": "2026-10-05",
+  "availability": "In Stock",
+  "audit": "Product-page capture from Oct 5, 2026 at 11:34 PM ET. Matched by product/model name; the selected option may differ from the original shared screenshot. The capture is evidence of what the page displayed, not an independent test or a live price check.",
+  "priceSourceUrl": "https://www.amazon.com/dp/B084FSVYW2",
+  "priceNote": "Price shown when the page was saved, not a live checkout quote. Captured option — Size: Small · Color: Black. Tax, shipping and other options may differ.",
+  "related": [
+    1,
+    23,
+    32,
+    34
+  ],
+  "originalUrl": "https://a.co/d/05G97nFK",
+  "capturedUrl": "https://www.amazon.com/dp/B084FSVYW2",
+  "productId": "B084FSVYW2",
+  "listingTitle": "Frelaxy Compression Sack, 40% More Space! Sleeping Bag Stuff Sack",
+  "capture": {
+    "date": "2026-10-05",
+    "capturedAt": "2026-10-06T03:34:27.422Z",
+    "localTime": "Oct 5, 2026 · 11:34 PM ET",
+    "site": "amazon",
+    "productId": "B084FSVYW2",
+    "url": "https://www.amazon.com/dp/B084FSVYW2",
+    "listingTitle": "Frelaxy Compression Sack, 40% More Space! Sleeping Bag Stuff Sack",
+    "priceText": "$16.99",
+    "selected": {
+      "Size": "Small",
+      "Color": "Black"
+    },
+    "ratingText": "4.5 4.5 out of 5 stars",
+    "reviewText": "(6,462)",
+    "seller": "",
+    "specifications": {
+      "Product Dimensions": "18 x 7 x 3 inches; 2.82 ounces",
+      "Date First Available": "December 11, 2019",
+      "Manufacturer": "Frelaxy",
+      "ASIN": "B082NP19TH"
+    },
+    "bullets": [],
+    "description": "",
+    "issues": [],
+    "sourceArchive": "amazon capture / B084FSVYW2",
+    "aiOverviewExcluded": false
+  },
+  "weightNote": "No unambiguous comparable weight assigned; see the captured fields and notes.",
+  "gallery": [
+    {
+      "width": 696,
+      "height": 1280,
+      "originalWidth": 708,
+      "originalHeight": 1303,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61Sy4bkgWXL._AC_SL1500_.jpg",
+      "group": 1,
+      "caption": "Gallery image 1",
+      "lowResolution": false,
+      "preferredUrl": "https://m.media-amazon.com/images/I/61Sy4bkgWXL._AC_SL1500_.jpg",
+      "src": "assets/033-01.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51BnibVDT1L._AC_SR38,50_.jpg",
+      "group": 2,
+      "caption": "Gallery image 2",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71adD1-eVTL._AC_SL1500_.jpg",
+      "src": "assets/033-02.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51JynaqGdCL._AC_SR38,50_.jpg",
+      "group": 3,
+      "caption": "Gallery image 3",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81fCTeU9FYL._AC_SL1500_.jpg",
+      "src": "assets/033-03.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51YbFvxTl7L._AC_SR38,50_.jpg",
+      "group": 4,
+      "caption": "Gallery image 4",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71tsPuHG04L._AC_SL1500_.jpg",
+      "src": "assets/033-04.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51AqYQPz+PL._AC_SR38,50_.jpg",
+      "group": 5,
+      "caption": "Gallery image 5",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71bgydrSxZL._AC_SL1500_.jpg",
+      "src": "assets/033-05.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51elDWwg0yL._AC_SR38,50_.jpg",
+      "group": 6,
+      "caption": "Gallery image 6",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71E5E9gqR6L._AC_SL1500_.jpg",
+      "src": "assets/033-06.webp"
+    }
+  ]
+}

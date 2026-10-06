@@ -1,0 +1,147 @@
+{
+  "id": 70,
+  "name": "Amazon Basic Care Loratadine — 10 mg, 90 Count",
+  "brand": "Amazon Basic Care",
+  "category": "First aid",
+  "url": "https://www.amazon.com/dp/B074F28Q9M",
+  "store": "Amazon",
+  "tags": [
+    "First aid",
+    "Allergy",
+    "Tablets",
+    "90 count",
+    "Captured page",
+    "Photo gallery"
+  ],
+  "description": "A saved listing for Amazon Basic Care loratadine tablets, with 10 mg strength and a 90-count selected option.",
+  "why": "Saved for reference; the listing does not establish personal suitability.",
+  "note": "Saved product information only—not advice to take, carry or combine medicines. Follow the package label and check suitability with a pharmacist. Product strength and count are listing metadata, not a treatment recommendation.",
+  "specs": {
+    "Selected Size": "10 mg, 90 Count",
+    "Product Dimensions": "2 x 1.75 x 3.5 inches; 1.04 ounces"
+  },
+  "weight_g": null,
+  "related": [],
+  "price": 4.95,
+  "priceKind": "capture",
+  "priceDate": "2026-10-06",
+  "priceNote": "Price shown when the page was saved, not a live checkout quote. Captured option — Size: 10 mg, 90 Count. Tax, shipping and other options may differ.",
+  "newInEdition": true,
+  "capturedUrl": "https://www.amazon.com/dp/B074F28Q9M",
+  "productId": "B074F28Q9M",
+  "listingTitle": "Amazon Basic Care Allergy Relief Loratadine Tablets 10 mg, 90 Count",
+  "priceSource": "Amazon",
+  "priceSourceUrl": "https://www.amazon.com/dp/B074F28Q9M",
+  "nameSource": "Matched to user-provided product-page capture",
+  "checked": "2026-10-06",
+  "availability": "In Stock",
+  "audit": "Product-page capture from Oct 6, 2026 at 12:11 AM ET. Matched by product/model name; the selected option may differ from the original shared screenshot. The capture is evidence of what the page displayed, not an independent test or a live price check.",
+  "capture": {
+    "date": "2026-10-06",
+    "capturedAt": "2026-10-06T04:11:23.104Z",
+    "localTime": "Oct 6, 2026 · 12:11 AM ET",
+    "site": "amazon",
+    "productId": "B074F28Q9M",
+    "url": "https://www.amazon.com/dp/B074F28Q9M",
+    "listingTitle": "Amazon Basic Care Allergy Relief Loratadine Tablets 10 mg, 90 Count",
+    "priceText": "$4.95",
+    "selected": {
+      "Size": "10 mg, 90 Count"
+    },
+    "ratingText": "4.7 4.7 out of 5 stars",
+    "reviewText": "(6,771)",
+    "seller": "",
+    "specifications": {
+      "Product Dimensions": "2 x 1.75 x 3.5 inches; 1.04 ounces",
+      "Date First Available": "July 28, 2017",
+      "Manufacturer": "Amazon.com Services, LLC.",
+      "ASIN": "B074F28Q9M"
+    },
+    "bullets": [
+      "ACTIVE INGREDIENT: The active ingredient is Loratadine 10 mg, an antihistamine; compare to the active ingredient in Claritin24 HOUR",
+      "ALLERGY RELIEF: One dose of Amazon Basic Care Loratadine Tablets 10 mg works for a full 24 hours to relieve your aggravating allergy symptoms",
+      "ORIGINAL PRESCRIPTION STRENGTH: Get strong symptom relief without the sleepiness, when taken as directed; this trusted allergy medicine comes in full prescription strength",
+      "ANTIHISTAMINE: This histamine blocker temporarily relieves symptoms due to hay fever or other upper respiratory allergies: sneezing, runny nose, itching of the nose or throat and itchy, watery eyesNON-DROWSY: When taken as directed, this allergy medicine will help your runny nose and other common allergy symptoms without making you feel drowsy",
+      "Product may be manufactured in India or U.S."
+    ],
+    "description": "",
+    "issues": [],
+    "sourceArchive": "amazon capture / B074F28Q9M",
+    "aiOverviewExcluded": false
+  },
+  "weightNote": "No unambiguous comparable weight assigned; see the captured fields and notes.",
+  "gallery": [
+    {
+      "width": 1280,
+      "height": 631,
+      "originalWidth": 1500,
+      "originalHeight": 740,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71ekOvHxTDL._AC_SL1500_.jpg",
+      "group": 1,
+      "caption": "Gallery image 1",
+      "lowResolution": false,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71ekOvHxTDL._AC_SL1500_.jpg",
+      "src": "assets/070-01.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41WSJXOR8LL._AC_US40_.jpg",
+      "group": 2,
+      "caption": "Gallery image 2",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71tds0d+QfL._AC_SL1500_.jpg",
+      "src": "assets/070-02.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41Wji53iUXL._AC_US40_.jpg",
+      "group": 3,
+      "caption": "Gallery image 3",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71MrhSf7F0L._AC_SL1500_.jpg",
+      "src": "assets/070-03.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51Ry9AQhoeL._AC_US40_.jpg",
+      "group": 4,
+      "caption": "Gallery image 4",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81VUzDm-39L._AC_SL1500_.jpg",
+      "src": "assets/070-04.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31TI2wqtKML._AC_US40_.jpg",
+      "group": 5,
+      "caption": "Gallery image 5",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/61xD38e9guL._AC_SL1500_.jpg",
+      "src": "assets/070-05.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41KCgGSBRvL._AC_US40_.jpg",
+      "group": 6,
+      "caption": "Gallery image 6",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/711T1Bmb5xL._AC_SL1500_.jpg",
+      "src": "assets/070-06.webp"
+    }
+  ]
+}

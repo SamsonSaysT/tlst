@@ -1,0 +1,152 @@
+{
+  "id": 24,
+  "name": "Compressed Coin Towels — 180 Pack",
+  "brand": "Unspecified brand",
+  "category": "Hygiene",
+  "url": "https://www.amazon.com/dp/B0DL5MT1KN",
+  "store": "Amazon",
+  "tags": [
+    "Towels",
+    "Compressed",
+    "Disposable",
+    "Cleanup",
+    "Group kit",
+    "Camp essentials",
+    "Captured page",
+    "Photo gallery"
+  ],
+  "description": "Compressed disposable towels that open to approximately 20 × 22 cm when wetted.",
+  "why": "A few small cleanup cloths portioned into each hiker’s kit.",
+  "note": "Carry out used towels; do not leave them on the trail. The brand was not visible in the screenshot.",
+  "specs": {
+    "Selected Color": "20cm x 22cm-180 Pack",
+    "Product Dimensions": "8.66 x 7.87 x 0.2 inches; 14.07 ounces"
+  },
+  "weight_g": null,
+  "price": 9.99,
+  "priceKind": "capture",
+  "priceSource": "Amazon",
+  "priceDate": "2026-10-05",
+  "nameSource": "Matched to user-provided product-page capture",
+  "checked": "2026-10-05",
+  "availability": "In Stock",
+  "audit": "Product-page capture from Oct 5, 2026 at 11:31 PM ET. Matched by product/model name; the selected option may differ from the original shared screenshot. The capture is evidence of what the page displayed, not an independent test or a live price check.",
+  "priceSourceUrl": "https://www.amazon.com/dp/B0DL5MT1KN",
+  "priceNote": "Price shown when the page was saved, not a live checkout quote. Captured option — Color: 20cm x 22cm-180 Pack. Tax, shipping and other options may differ.",
+  "related": [
+    27,
+    57
+  ],
+  "originalUrl": "https://a.co/d/01jLUJbc",
+  "capturedUrl": "https://www.amazon.com/dp/B0DL5MT1KN",
+  "productId": "B0DL5MT1KN",
+  "listingTitle": "180 Pcs Compressed Towel, Mini Compressed Towel Tablets, Camping Towel",
+  "capture": {
+    "date": "2026-10-05",
+    "capturedAt": "2026-10-06T03:31:54.391Z",
+    "localTime": "Oct 5, 2026 · 11:31 PM ET",
+    "site": "amazon",
+    "productId": "B0DL5MT1KN",
+    "url": "https://www.amazon.com/dp/B0DL5MT1KN",
+    "listingTitle": "180 Pcs Compressed Towel, Mini Compressed Towel Tablets, Camping Towel",
+    "priceText": "$9.99",
+    "selected": {
+      "Color": "20cm x 22cm-180 Pack"
+    },
+    "ratingText": "4.6 4.6 out of 5 stars",
+    "reviewText": "(647)",
+    "seller": "",
+    "specifications": {
+      "Product Dimensions": "8.66 x 7.87 x 0.2 inches; 14.07 ounces",
+      "Item model number": "Towel-180",
+      "Manufacturer": "NUITPY",
+      "ASIN": "B0DL5MT1KN"
+    },
+    "bullets": [
+      "【180PCS Compressed Towels】Package includes 180pcs disposable compressed towels. Each compressed towel unfolded Size is 7.9in x 8.7in, These compressed face towel are all individually packaged and made of plant fibers. Due to the small size and strong water absorption of compressed coin tissue, there is a risk of suffocation. Children under three years old should not use it alone!",
+      "【Skin Friendly & Hypoallergenic】Our compressed towel tablets is soft and hypoallergenic, they won't irritate your skin and they can quickly clean your face, neck, shoulders, arms, hands, legs, etc. They can also be used for babies and pet",
+      "【Easy to Carry and Use】These compressed coin tissues is 0.28in x 0.78in and individually packaged, when you go out, you can bring some in your bag, they won't take up too much space. When you need to use wet wipe, just take out a compressed coin tissue and drop some clean water on it. It will quickly expand into a 7.9in x 8.7in wet wipe to clean everything",
+      "【Multi-Purpose】Our compressed towels tablets are suitable for many occasions such as facial cleaning, outdoor sport, dust cleaning, wipe eyeglasses, remove makeup etc. As long as you have clean water around you, it can replace wet wipes",
+      "【Easy to Use】Our compressed towels are made of high-quality non-woven fabric. They are lightweight, soft, and odorless. After expanding with moisture, they can be reused multiple times. You can wet them with cool or warm water as needed"
+    ],
+    "description": "",
+    "issues": [],
+    "sourceArchive": "amazon capture / B0DL5MT1KN",
+    "aiOverviewExcluded": false
+  },
+  "weightNote": "No unambiguous comparable weight assigned; see the captured fields and notes.",
+  "gallery": [
+    {
+      "width": 1280,
+      "height": 1280,
+      "originalWidth": 1500,
+      "originalHeight": 1500,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71sWj3BmjRL._SL1500_.jpg",
+      "group": 1,
+      "caption": "Gallery image 1",
+      "lowResolution": false,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71sWj3BmjRL._SL1500_.jpg",
+      "src": "assets/024-01.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41IJft2ok6L._SS40_.jpg",
+      "group": 2,
+      "caption": "Gallery image 2",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71ImALyKrzL._SL1500_.jpg",
+      "src": "assets/024-02.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51ZVpaIv4GL._SS40_.jpg",
+      "group": 3,
+      "caption": "Gallery image 3",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81mbmSP2IIL._SL1500_.jpg",
+      "src": "assets/024-03.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41XkjwDvlaL._SS40_.jpg",
+      "group": 4,
+      "caption": "Gallery image 4",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/718iTFBpw1L._SL1500_.jpg",
+      "src": "assets/024-04.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/415QC1a8vQL._SS40_.jpg",
+      "group": 5,
+      "caption": "Gallery image 5",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71OUUjMrUBL._SL1500_.jpg",
+      "src": "assets/024-05.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51kvZAjqPOL._SS40_.jpg",
+      "group": 6,
+      "caption": "Gallery image 6",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71WGe2kg-VL._SL1500_.jpg",
+      "src": "assets/024-06.webp"
+    }
+  ]
+}

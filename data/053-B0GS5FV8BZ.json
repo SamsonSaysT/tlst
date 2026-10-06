@@ -1,0 +1,148 @@
+{
+  "id": 53,
+  "name": "Niruoxn Reflective Rain Suit",
+  "brand": "Niruoxn",
+  "category": "Clothing & rain",
+  "url": "https://www.amazon.com/dp/B0GS5FV8BZ",
+  "store": "Amazon",
+  "tags": [
+    "Rain suit",
+    "Jacket + bibs",
+    "Reflective",
+    "Heavy-duty style",
+    "Wearable",
+    "Captured page",
+    "Photo gallery"
+  ],
+  "description": "A rainwear set pictured with a hooded jacket, bib trousers and reflective bands.",
+  "why": "A bundled jacket-and-bib alternative to buying separates.",
+  "note": "No safety visibility certification or breathability test was supplied. Reflective stripes do not establish a certified workwear rating.",
+  "specs": {
+    "Selected Size": "X-Large",
+    "Selected Color": "Green"
+  },
+  "weight_g": null,
+  "price": 69.99,
+  "priceKind": "capture",
+  "priceSource": "Amazon",
+  "priceDate": "2026-10-05",
+  "nameSource": "Matched to user-provided product-page capture",
+  "checked": "2026-10-05",
+  "availability": "In Stock",
+  "audit": "Product-page capture from Oct 5, 2026 at 11:39 PM ET. Matched by product/model name; the selected option may differ from the original shared screenshot. The capture is evidence of what the page displayed, not an independent test or a live price check.",
+  "priceSourceUrl": "https://www.amazon.com/dp/B0GS5FV8BZ",
+  "priceNote": "Price shown when the page was saved, not a live checkout quote. Captured option — Size: X-Large · Color: Green. Tax, shipping and other options may differ.",
+  "related": [
+    28,
+    29,
+    37,
+    38
+  ],
+  "originalUrl": "https://a.co/d/03H4GM4A",
+  "capturedUrl": "https://www.amazon.com/dp/B0GS5FV8BZ",
+  "productId": "B0GS5FV8BZ",
+  "listingTitle": "Heavy Duty Waterproof Rain Suit for Men Women Reflective Rain Jacket Bib Pants Fishing Rain Gear for Camping Golf",
+  "capture": {
+    "date": "2026-10-05",
+    "capturedAt": "2026-10-06T03:39:30.988Z",
+    "localTime": "Oct 5, 2026 · 11:39 PM ET",
+    "site": "amazon",
+    "productId": "B0GS5FV8BZ",
+    "url": "https://www.amazon.com/dp/B0GS5FV8BZ",
+    "listingTitle": "Heavy Duty Waterproof Rain Suit for Men Women Reflective Rain Jacket Bib Pants Fishing Rain Gear for Camping Golf",
+    "priceText": "$69.99",
+    "selected": {
+      "Size": "X-Large",
+      "Color": "Green"
+    },
+    "ratingText": "4.8 4.8 out of 5 stars",
+    "reviewText": "(33)",
+    "seller": "",
+    "specifications": {
+      "Item model number": "KJ-PU-FG",
+      "Department": "unisex-adult",
+      "Date First Available": "March 11, 2026",
+      "ASIN": "B0GS51LB2D"
+    },
+    "bullets": [],
+    "description": "",
+    "issues": [],
+    "sourceArchive": "amazon capture / B0GS5FV8BZ",
+    "aiOverviewExcluded": false
+  },
+  "weightNote": "No unambiguous comparable weight assigned; see the captured fields and notes.",
+  "gallery": [
+    {
+      "width": 1195,
+      "height": 1280,
+      "originalWidth": 1400,
+      "originalHeight": 1500,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61nja8nVUiL._AC_SL1500_.jpg",
+      "group": 1,
+      "caption": "Gallery image 1",
+      "lowResolution": false,
+      "preferredUrl": "https://m.media-amazon.com/images/I/61nja8nVUiL._AC_SL1500_.jpg",
+      "src": "assets/053-01.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41eXfqd8+2L._AC_SR38,50_.jpg",
+      "group": 2,
+      "caption": "Gallery image 2",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71oy6Qq1nbL._AC_SL1500_.jpg",
+      "src": "assets/053-02.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41yoMXTEnfL._AC_SR38,50_.jpg",
+      "group": 3,
+      "caption": "Gallery image 3",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/61KtGjxl7GL._AC_SL1500_.jpg",
+      "src": "assets/053-03.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41mhPcOwaML._AC_SR38,50_.jpg",
+      "group": 4,
+      "caption": "Gallery image 4",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/717b7Y-8ezL._AC_SL1500_.jpg",
+      "src": "assets/053-04.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41v16BU4BEL._AC_SR38,50_.jpg",
+      "group": 5,
+      "caption": "Gallery image 5",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/6182Hy05-fL._AC_SL1500_.jpg",
+      "src": "assets/053-05.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51nQU5+Xq6L._AC_SR38,50_.jpg",
+      "group": 6,
+      "caption": "Gallery image 6",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81tO93KzHKL._AC_SL1500_.jpg",
+      "src": "assets/053-06.webp"
+    }
+  ]
+}

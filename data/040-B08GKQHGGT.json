@@ -1,0 +1,149 @@
+{
+  "id": 40,
+  "name": "Wespornow Women’s Fleece-Lined Hiking Pants",
+  "brand": "Wespornow",
+  "category": "Clothing & rain",
+  "url": "https://www.amazon.com/dp/B08GKQHGGT",
+  "store": "Amazon",
+  "tags": [
+    "Fleece-lined",
+    "Women’s",
+    "Hiking pants",
+    "Cold-weather walking",
+    "Cold-weather gear",
+    "Captured page",
+    "Photo gallery"
+  ],
+  "description": "Fleece-lined outdoor trousers with articulated knees, an elastic waist and four pockets.",
+  "why": "A walking-pant alternative to a quilted insulated layer.",
+  "note": "Water resistance and breathability are listing claims. Verify measurements for the exact size.",
+  "specs": {
+    "Selected Size": "X-Large",
+    "Selected Special Size Type": "Standard",
+    "Selected Color": "Black"
+  },
+  "weight_g": null,
+  "price": 35.69,
+  "priceKind": "capture",
+  "priceSource": "Amazon",
+  "priceDate": "2026-10-05",
+  "nameSource": "Matched to user-provided product-page capture",
+  "checked": "2026-10-05",
+  "availability": "In Stock",
+  "audit": "Product-page capture from Oct 5, 2026 at 11:36 PM ET. Matched by product/model name; the selected option may differ from the original shared screenshot. The capture is evidence of what the page displayed, not an independent test or a live price check.",
+  "priceSourceUrl": "https://www.amazon.com/dp/B08GKQHGGT",
+  "priceNote": "Price shown when the page was saved, not a live checkout quote. Captured option — Size: X-Large · Special Size Type: Standard · Color: Black. Tax, shipping and other options may differ.",
+  "related": [
+    28,
+    29,
+    37,
+    38
+  ],
+  "originalUrl": "https://a.co/d/09ZvGky2",
+  "capturedUrl": "https://www.amazon.com/dp/B08GKQHGGT",
+  "productId": "B08GKQHGGT",
+  "listingTitle": "Wespornow Women's Fleece-Lined Hiking Pants: Water Resistant Windproof",
+  "capture": {
+    "date": "2026-10-05",
+    "capturedAt": "2026-10-06T03:36:30.387Z",
+    "localTime": "Oct 5, 2026 · 11:36 PM ET",
+    "site": "amazon",
+    "productId": "B08GKQHGGT",
+    "url": "https://www.amazon.com/dp/B08GKQHGGT",
+    "listingTitle": "Wespornow Women's Fleece-Lined Hiking Pants: Water Resistant Windproof",
+    "priceText": "$35.69",
+    "selected": {
+      "Size": "X-Large",
+      "Special Size Type": "Standard",
+      "Color": "Black"
+    },
+    "ratingText": "4.3 4.3 out of 5 stars",
+    "reviewText": "(3,093)",
+    "seller": "",
+    "specifications": {
+      "Department": "womens",
+      "Date First Available": "March 1, 2021",
+      "ASIN": "B0916YKCZS"
+    },
+    "bullets": [],
+    "description": "",
+    "issues": [],
+    "sourceArchive": "amazon capture / B08GKQHGGT",
+    "aiOverviewExcluded": false
+  },
+  "weightNote": "No unambiguous comparable weight assigned; see the captured fields and notes.",
+  "gallery": [
+    {
+      "width": 777,
+      "height": 1280,
+      "originalWidth": 895,
+      "originalHeight": 1475,
+      "sourceUrl": "https://m.media-amazon.com/images/I/512F3OzfqNL._AC_SL1500_.jpg",
+      "group": 1,
+      "caption": "Gallery image 1",
+      "lowResolution": false,
+      "preferredUrl": "https://m.media-amazon.com/images/I/512F3OzfqNL._AC_SL1500_.jpg",
+      "src": "assets/040-01.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31k9RmCmTtL._AC_SR38,50_.jpg",
+      "group": 2,
+      "caption": "Gallery image 2",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/61IQatR+mWL._AC_SL1500_.jpg",
+      "src": "assets/040-02.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41UMN-Kc+OL._AC_SR38,50_.jpg",
+      "group": 3,
+      "caption": "Gallery image 3",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/61vBg6plH+L._AC_SL1500_.jpg",
+      "src": "assets/040-03.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51Dokr9rDNL._AC_SR38,50_.jpg",
+      "group": 4,
+      "caption": "Gallery image 4",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81989amFS7L._AC_SL1500_.jpg",
+      "src": "assets/040-04.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51kd5cnpj+L._AC_SR38,50_.jpg",
+      "group": 5,
+      "caption": "Gallery image 5",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71ToH99ELOL._AC_SL1500_.jpg",
+      "src": "assets/040-05.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31Rlhi5aPGL._AC_SR38,50_.jpg",
+      "group": 6,
+      "caption": "Gallery image 6",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/51TVRKlGqpL._AC_SL1500_.jpg",
+      "src": "assets/040-06.webp"
+    }
+  ]
+}

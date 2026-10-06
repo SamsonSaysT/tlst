@@ -1,0 +1,148 @@
+{
+  "id": 72,
+  "name": "Amazon Basics Ibuprofen — 200 mg, 100 Count",
+  "brand": "Amazon Basics",
+  "category": "First aid",
+  "url": "https://www.amazon.com/dp/B087D3H3WD",
+  "store": "Amazon",
+  "tags": [
+    "First aid",
+    "Tablets",
+    "100 count",
+    "New find",
+    "Captured page",
+    "Photo gallery"
+  ],
+  "description": "A saved listing for Amazon Basics ibuprofen tablets, with 200 mg strength and a 100-count selected option.",
+  "why": "Saved for reference; the listing does not establish personal suitability.",
+  "note": "Saved product information only—not advice to take, carry or combine medicines. Follow the package label and check suitability with a pharmacist. Product strength and pack count are listing metadata, not a recommended dose.",
+  "specs": {
+    "Selected Size": "100 Count (Pack of 1)",
+    "Product Dimensions": "3.25 x 4.25 x 4.75 inches; 2.08 ounces"
+  },
+  "weight_g": null,
+  "related": [],
+  "price": 5.59,
+  "priceKind": "capture",
+  "priceDate": "2026-10-06",
+  "priceNote": "Price shown when the page was saved, not a live checkout quote. Captured option — Size: 100 Count (Pack of 1). Tax, shipping and other options may differ.",
+  "newInEdition": true,
+  "capturedUrl": "https://www.amazon.com/dp/B087D3H3WD",
+  "productId": "B087D3H3WD",
+  "listingTitle": "Amazon Basics Ibuprofen Tablets, 200 mg, Pain Reliever and Fever Reducer, for Headache, Muscular Aches, Arthritis, Backache and More, 100 Count (Pack of 1) (Previously Care)",
+  "priceSource": "Amazon",
+  "priceSourceUrl": "https://www.amazon.com/dp/B087D3H3WD",
+  "nameSource": "Matched to user-provided product-page capture",
+  "checked": "2026-10-06",
+  "availability": "In Stock",
+  "audit": "Product-page capture from Oct 6, 2026 at 12:02 AM ET. Matched by product/model name; the selected option may differ from the original shared screenshot. The capture is evidence of what the page displayed, not an independent test or a live price check.",
+  "capture": {
+    "date": "2026-10-06",
+    "capturedAt": "2026-10-06T04:02:01.269Z",
+    "localTime": "Oct 6, 2026 · 12:02 AM ET",
+    "site": "amazon",
+    "productId": "B087D3H3WD",
+    "url": "https://www.amazon.com/dp/B087D3H3WD",
+    "listingTitle": "Amazon Basics Ibuprofen Tablets, 200 mg, Pain Reliever and Fever Reducer, for Headache, Muscular Aches, Arthritis, Backache and More, 100 Count (Pack of 1) (Previously Care)",
+    "priceText": "$5.59",
+    "selected": {
+      "Size": "100 Count (Pack of 1)"
+    },
+    "ratingText": "4.8 4.8 out of 5 stars",
+    "reviewText": "(3,144)",
+    "seller": "",
+    "specifications": {
+      "Product Dimensions": "3.25 x 4.25 x 4.75 inches; 2.08 ounces",
+      "Date First Available": "March 3, 2022",
+      "Manufacturer": "Amazon.com LLC",
+      "ASIN": "B087D3H3WD"
+    },
+    "bullets": [
+      "ACTIVE INGREDIENT: The active ingredient in Amazon Basics Ibuprofen Tablets is 200 mg of ibuprofen, a nonsteroidal anti-inflammatory drug (NSAID), pain reliever and fever reducer; compare to the active ingredient of Advil",
+      "PAIN RELIEF: Use Ibuprofen to temporarily relieve minor aches and pains due to headache, muscular aches, arthritis, toothache, backache, the common cold and menstrual cramps",
+      "PROVEN EFFECTIVENESS: Proven pain relief without a prescription for adults and children 12 years and older",
+      "DOCTOR RECOMMENDED: Ibuprofen is the number one doctor recommended OTC active ingredient for back pain (of U.S. physicians surveyed by an independent market research firm)",
+      "COATED TABLETS: These coated tablets, with the active ingredient ibuprofen 200 mg, are a gluten free choice to relieve minor body aches and pains",
+      "PREVIOUSLY AMAZON BASIC CARE: Previously Amazon Basic Care, now Amazon Basics. Packaging may vary but item and quality remain the same"
+    ],
+    "description": "",
+    "issues": [],
+    "sourceArchive": "amazon capture / B087D3H3WD",
+    "aiOverviewExcluded": false
+  },
+  "weightNote": "No unambiguous comparable weight assigned; see the captured fields and notes.",
+  "gallery": [
+    {
+      "width": 910,
+      "height": 1280,
+      "originalWidth": 1066,
+      "originalHeight": 1500,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71-t8GqaASL._AC_SL1500_.jpg",
+      "group": 1,
+      "caption": "Gallery image 1",
+      "lowResolution": false,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71-t8GqaASL._AC_SL1500_.jpg",
+      "src": "assets/072-01.webp"
+    },
+    {
+      "width": 1280,
+      "height": 1280,
+      "originalWidth": 1500,
+      "originalHeight": 1500,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71C0UO-HHML._AC_SL1500_.jpg",
+      "group": 2,
+      "caption": "Gallery image 2",
+      "lowResolution": false,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71C0UO-HHML._AC_SL1500_.jpg",
+      "src": "assets/072-02.webp"
+    },
+    {
+      "width": 1280,
+      "height": 1280,
+      "originalWidth": 1500,
+      "originalHeight": 1500,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61UjQrvKUFL._AC_SL1500_.jpg",
+      "group": 3,
+      "caption": "Gallery image 3",
+      "lowResolution": false,
+      "preferredUrl": "https://m.media-amazon.com/images/I/61UjQrvKUFL._AC_SL1500_.jpg",
+      "src": "assets/072-03.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51Vxn6gZjHL._AC_US40_.jpg",
+      "group": 4,
+      "caption": "Gallery image 4",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81bIYWMpnhL._AC_SL1500_.jpg",
+      "src": "assets/072-04.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41HO34ghgFL._AC_US40_.jpg",
+      "group": 5,
+      "caption": "Gallery image 5",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/61yMN91qDuL._AC_SL1500_.jpg",
+      "src": "assets/072-05.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51dFlM8s+hL._AC_US40_.jpg",
+      "group": 6,
+      "caption": "Gallery image 6",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/816jUU8mHML._AC_SL1500_.jpg",
+      "src": "assets/072-06.webp"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": 37,
+  "name": "Little Donkey Andy Women’s Quilted Puffer Pants",
+  "brand": "Little Donkey Andy",
+  "category": "Clothing & rain",
+  "url": "https://www.amazon.com/dp/B0B4638H19",
+  "store": "Amazon",
+  "tags": [
+    "Puffer pants",
+    "Women’s",
+    "Insulated",
+    "Camp warmth",
+    "Cold-weather gear",
+    "Captured page",
+    "Photo gallery"
+  ],
+  "description": "Quilted puffer pants with an elastic waistband and fleece-lined side pockets.",
+  "why": "An insulated clothing option for relaxing in cold weather.",
+  "note": "The screenshot does not confirm the fill material, packed weight or temperature performance.",
+  "specs": {
+    "Selected Size": "Medium",
+    "Selected Color": "Blue"
+  },
+  "weight_g": null,
+  "price": 54.98,
+  "priceKind": "capture",
+  "priceSource": "Amazon",
+  "priceDate": "2026-10-05",
+  "nameSource": "Matched to user-provided product-page capture",
+  "checked": "2026-10-05",
+  "availability": "Not extracted from this capture",
+  "audit": "Product-page capture from Oct 5, 2026 at 11:35 PM ET. Matched by product/model name; the selected option may differ from the original shared screenshot. The capture is evidence of what the page displayed, not an independent test or a live price check.",
+  "priceSourceUrl": "https://www.amazon.com/dp/B0B4638H19",
+  "priceNote": "Price shown when the page was saved, not a live checkout quote. Captured option — Size: Medium · Color: Blue. Tax, shipping and other options may differ.",
+  "related": [
+    28,
+    29,
+    38,
+    39
+  ],
+  "originalUrl": "https://a.co/d/0e011D4K",
+  "capturedUrl": "https://www.amazon.com/dp/B0B4638H19",
+  "productId": "B0B4638H19",
+  "listingTitle": "Little Donkey Andy Women's Quilted Puffer Pants",
+  "capture": {
+    "date": "2026-10-05",
+    "capturedAt": "2026-10-06T03:35:31.517Z",
+    "localTime": "Oct 5, 2026 · 11:35 PM ET",
+    "site": "amazon",
+    "productId": "B0B4638H19",
+    "url": "https://www.amazon.com/dp/B0B4638H19",
+    "listingTitle": "Little Donkey Andy Women's Quilted Puffer Pants",
+    "priceText": "$54.98",
+    "selected": {
+      "Size": "Medium",
+      "Color": "Blue"
+    },
+    "ratingText": "4.3 4.3 out of 5 stars",
+    "reviewText": "(239)",
+    "seller": "",
+    "specifications": {
+      "Department": "womens",
+      "Date First Available": "June 15, 2022",
+      "ASIN": "B0CHBR8115"
+    },
+    "bullets": [],
+    "description": "",
+    "issues": [],
+    "sourceArchive": "amazon capture / B0B4638H19",
+    "aiOverviewExcluded": false
+  },
+  "weightNote": "No unambiguous comparable weight assigned; see the captured fields and notes.",
+  "gallery": [
+    {
+      "width": 579,
+      "height": 1280,
+      "originalWidth": 678,
+      "originalHeight": 1500,
+      "sourceUrl": "https://m.media-amazon.com/images/I/61L4KOxHg0L._AC_SL1500_.jpg",
+      "group": 1,
+      "caption": "Gallery image 1",
+      "lowResolution": false,
+      "preferredUrl": "https://m.media-amazon.com/images/I/61L4KOxHg0L._AC_SL1500_.jpg",
+      "src": "assets/037-01.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31oeET8dehL._AC_SR38,50_.jpg",
+      "group": 2,
+      "caption": "Gallery image 2",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/61uw8myxbcL._AC_SL1500_.jpg",
+      "src": "assets/037-02.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41NEshdboAL._AC_SR38,50_.jpg",
+      "group": 3,
+      "caption": "Gallery image 3",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81GmXGIUV5L._AC_SL1500_.jpg",
+      "src": "assets/037-03.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/31qB5LgFmGL._AC_SR38,50_.jpg",
+      "group": 4,
+      "caption": "Gallery image 4",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/51EiWA59hrL._AC_SL1140_.jpg",
+      "src": "assets/037-04.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41ARNwXLz5L._AC_SR38,50_.jpg",
+      "group": 5,
+      "caption": "Gallery image 5",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/91os5rMOkgL._AC_SL1500_.jpg",
+      "src": "assets/037-05.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/4149ShxOh5L._AC_SR38,50_.jpg",
+      "group": 6,
+      "caption": "Gallery image 6",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/812jxiEhVFL._AC_SL1500_.jpg",
+      "src": "assets/037-06.webp"
+    }
+  ]
+}

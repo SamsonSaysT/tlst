@@ -1,0 +1,154 @@
+{
+  "id": 57,
+  "name": "Dr. Bronner’s Lavender Pure-Castile Soap — 8 fl oz",
+  "brand": "Dr. Bronner’s",
+  "category": "Hygiene",
+  "url": "https://www.amazon.com/dp/B00028NFQQ",
+  "store": "Amazon",
+  "tags": [
+    "Soap",
+    "Lavender",
+    "Concentrated",
+    "Cleanup",
+    "Camp essentials",
+    "Captured page",
+    "Photo gallery"
+  ],
+  "description": "A concentrated liquid castile soap in the lavender scent, shown in an 8 fl oz bottle.",
+  "why": "Decanting a small quantity of multi-use soap for a short trip.",
+  "note": "Use soap away from natural water sources. “Biodegradable” does not mean appropriate to pour into a stream.",
+  "specs": {
+    "Selected Size": "8 Fl Oz (Pack of 1)",
+    "Selected Scent": "Lavender",
+    "Product Dimensions": "1.81 x 1.81 x 6.18 inches; 8 ounces"
+  },
+  "weight_g": null,
+  "price": 9.99,
+  "priceKind": "capture",
+  "priceSource": "Amazon",
+  "priceDate": "2026-10-05",
+  "nameSource": "Matched to user-provided product-page capture",
+  "checked": "2026-10-05",
+  "availability": "In Stock",
+  "audit": "Product-page capture from Oct 5, 2026 at 11:40 PM ET. Matched by product/model name; the selected option may differ from the original shared screenshot. The capture is evidence of what the page displayed, not an independent test or a live price check.",
+  "priceSourceUrl": "https://www.amazon.com/dp/B00028NFQQ",
+  "priceNote": "Price shown when the page was saved, not a live checkout quote. Captured option — Size: 8 Fl Oz (Pack of 1) · Scent: Lavender. Tax, shipping and other options may differ.",
+  "related": [
+    24,
+    27
+  ],
+  "originalUrl": "https://a.co/d/0g82FuLt",
+  "capturedUrl": "https://www.amazon.com/dp/B00028NFQQ",
+  "productId": "B00028NFQQ",
+  "listingTitle": "Dr. Bronner's Lavender Pure-Castile Liquid Soap, Body Wash, 8 oz",
+  "capture": {
+    "date": "2026-10-05",
+    "capturedAt": "2026-10-06T03:40:38.483Z",
+    "localTime": "Oct 5, 2026 · 11:40 PM ET",
+    "site": "amazon",
+    "productId": "B00028NFQQ",
+    "url": "https://www.amazon.com/dp/B00028NFQQ",
+    "listingTitle": "Dr. Bronner's Lavender Pure-Castile Liquid Soap, Body Wash, 8 oz",
+    "priceText": "$9.99",
+    "selected": {
+      "Size": "8 Fl Oz (Pack of 1)",
+      "Scent": "Lavender"
+    },
+    "ratingText": "4.7 4.7 out of 5 stars",
+    "reviewText": "(26,943)",
+    "seller": "",
+    "specifications": {
+      "Product Dimensions": "1.81 x 1.81 x 6.18 inches; 8 ounces",
+      "Item model number": "DRORGP07",
+      "Department": "All Ages/Unisex",
+      "Manufacturer": "Dr. Bronner's",
+      "ASIN": "B00028NFQQ"
+    },
+    "bullets": [
+      "RICH LATHER FOR DAILY SHOWERS: Dr. Bronner’s 3X concentrated Pure-Castile formula creates a rich, thick lather that rinses cleanly and leaves skin refreshed—ideal as a gentle body cleanser after the gym or during travel",
+      "MADE WITH CERTIFIED ORGANIC OILS: Regenerative Organic Certified oils and over 70% certified organic and fair trade ingredients make this lavender castile soap a thoughtful choice for everyday washing in family routines",
+      "MADE WITHOUT SYNTHETIC DETERGENTS: This plant-based bath soap uses coconut, olive, palm kernel, hemp, and jojoba oils—gentle for daily cleansing routines when diluted, used carefully, and rinsed thoroughly after each use",
+      "DILUTES FOR 18-IN-1 USES: Dilute! Dilute! Use this castile body soap liquid for shower cleansing, hand soap, dish soap, laundry soap, makeup brush cleaner, or pet soap—less waste and more value from every 8 oz bottle",
+      "SIMPLE SOAP FOR EVERYDAY ROUTINES: A concentrated liquid soap made for daily personal care and household use. Lathers well, rinses clean, and fits easily into bath, sink, shower, laundry, and cleaning routines when diluted as directed"
+    ],
+    "description": "",
+    "issues": [],
+    "sourceArchive": "amazon capture / B00028NFQQ",
+    "aiOverviewExcluded": false
+  },
+  "weightNote": "No unambiguous comparable weight assigned; see the captured fields and notes.",
+  "gallery": [
+    {
+      "width": 1280,
+      "height": 1280,
+      "originalWidth": 1500,
+      "originalHeight": 1500,
+      "sourceUrl": "https://m.media-amazon.com/images/I/71l61lQdfDL._SL1500_.jpg",
+      "group": 1,
+      "caption": "Gallery image 1",
+      "lowResolution": false,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71l61lQdfDL._SL1500_.jpg",
+      "src": "assets/057-01.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41OlkgQgmjL._SS40_.jpg",
+      "group": 2,
+      "caption": "Gallery image 2",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81KWBpZxI5L._SL1500_.jpg",
+      "src": "assets/057-02.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51GvkNOs4rL._SS40_.jpg",
+      "group": 3,
+      "caption": "Gallery image 3",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81oq23d3CoL._SL1500_.jpg",
+      "src": "assets/057-03.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51skc2iDO0L._SS40_.jpg",
+      "group": 4,
+      "caption": "Gallery image 4",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81Rk-S2w0WL._SL1500_.jpg",
+      "src": "assets/057-04.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/619aifm+TnL._SS40_.jpg",
+      "group": 5,
+      "caption": "Gallery image 5",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/91COWbKa1eL._SL1500_.jpg",
+      "src": "assets/057-05.webp"
+    },
+    {
+      "width": 40,
+      "height": 40,
+      "originalWidth": 40,
+      "originalHeight": 40,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41Q7sbBKn8L._SS40_.jpg",
+      "group": 6,
+      "caption": "Gallery image 6",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/71e+mCqOZ1L._SL1500_.jpg",
+      "src": "assets/057-06.webp"
+    }
+  ]
+}

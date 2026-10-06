@@ -1,0 +1,157 @@
+{
+  "id": 38,
+  "name": "Naturehike Down Pants",
+  "brand": "Naturehike",
+  "category": "Clothing & rain",
+  "url": "https://www.amazon.com/dp/B0B8CHF9P4",
+  "store": "Amazon",
+  "tags": [
+    "Down",
+    "Puffer pants",
+    "Camp warmth",
+    "Packable",
+    "Cold-weather gear",
+    "Captured page",
+    "Photo gallery"
+  ],
+  "description": "Quilted down pants shown with an elastic waist, zipper, snap and gathered cuffs.",
+  "why": "An insulating camp layer to compare against the quilted and fleece-lined options.",
+  "note": "Water-repellent does not mean waterproof. Check size charts, fill quantity and actual packed weight.",
+  "specs": {
+    "Selected Color": "Black-m"
+  },
+  "weight_g": null,
+  "price": 64.99,
+  "priceKind": "capture",
+  "priceSource": "Amazon",
+  "priceDate": "2026-10-05",
+  "nameSource": "Matched to user-provided product-page capture",
+  "checked": "2026-10-05",
+  "availability": "In Stock",
+  "audit": "Product-page capture from Oct 5, 2026 at 11:35 PM ET. Matched by product/model name; the selected option may differ from the original shared screenshot. The capture is evidence of what the page displayed, not an independent test or a live price check.",
+  "priceSourceUrl": "https://www.amazon.com/dp/B0B8CHF9P4",
+  "priceNote": "Price shown when the page was saved, not a live checkout quote. Captured option — Color: Black-m. Tax, shipping and other options may differ.",
+  "related": [
+    28,
+    29,
+    37,
+    39
+  ],
+  "originalUrl": "https://a.co/d/037pQQVq",
+  "capturedUrl": "https://www.amazon.com/dp/B0B8CHF9P4",
+  "productId": "B0B8CHF9P4",
+  "listingTitle": "Naturehike Down Pants,Men's Women's Puffy Pants,Winter Warm Outdoor Men Women Ski Snow Pants,Camping Hiking Pants",
+  "capture": {
+    "date": "2026-10-05",
+    "capturedAt": "2026-10-06T03:35:52.851Z",
+    "localTime": "Oct 5, 2026 · 11:35 PM ET",
+    "site": "amazon",
+    "productId": "B0B8CHF9P4",
+    "url": "https://www.amazon.com/dp/B0B8CHF9P4",
+    "listingTitle": "Naturehike Down Pants,Men's Women's Puffy Pants,Winter Warm Outdoor Men Women Ski Snow Pants,Camping Hiking Pants",
+    "priceText": "$64.99",
+    "selected": {
+      "Color": "Black-m"
+    },
+    "ratingText": "4.7 4.7 out of 5 stars",
+    "reviewText": "(57)",
+    "seller": "",
+    "specifications": {
+      "Department": "womens",
+      "Date First Available": "August 20, 2026",
+      "ASIN": "B0HFWLK58Q"
+    },
+    "bullets": [],
+    "description": "Naturehike Down Pants, Men's Women's Puffy Pants,Winter Warm Outdoor Men Women Ski Snow Pants, Camping Hiking Pants, Warm Snow Trousers",
+    "issues": [],
+    "sourceArchive": "amazon capture / B0B8CHF9P4",
+    "aiOverviewExcluded": false
+  },
+  "weightNote": "No unambiguous comparable weight assigned; see the captured fields and notes.",
+  "gallery": [
+    {
+      "width": 606,
+      "height": 1280,
+      "originalWidth": 710,
+      "originalHeight": 1500,
+      "sourceUrl": "https://m.media-amazon.com/images/I/617NS+DaEIL._AC_SL1500_.jpg",
+      "group": 1,
+      "caption": "Gallery image 1",
+      "lowResolution": false,
+      "preferredUrl": "https://m.media-amazon.com/images/I/617NS+DaEIL._AC_SL1500_.jpg",
+      "src": "assets/038-01.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51hCw4V-ntL._AC_SR38,50_.jpg",
+      "group": 2,
+      "caption": "Gallery image 2",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81j6EYajEwL._AC_SL1500_.jpg",
+      "src": "assets/038-02.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51V37Ge0O3L._AC_SR38,50_.jpg",
+      "group": 3,
+      "caption": "Gallery image 3",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81o6DWMDO1L._AC_SL1500_.jpg",
+      "src": "assets/038-03.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/41gsfgD2tSL._AC_SR38,50_.jpg",
+      "group": 4,
+      "caption": "Gallery image 4",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/51lrTf-OX7L._AC_SL1105_.jpg",
+      "src": "assets/038-04.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51P718B3QyL._AC_SR38,50_.jpg",
+      "group": 5,
+      "caption": "Gallery image 5",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/819Qnf18MoL._AC_SL1500_.jpg",
+      "src": "assets/038-05.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51JuwawkuQL._AC_SR38,50_.jpg",
+      "group": 6,
+      "caption": "Gallery image 6",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/81nH4JMitrL._AC_SL1500_.jpg",
+      "src": "assets/038-06.webp"
+    },
+    {
+      "width": 38,
+      "height": 50,
+      "originalWidth": 38,
+      "originalHeight": 50,
+      "sourceUrl": "https://m.media-amazon.com/images/I/51phS3yzSaL._AC_SR38,50_.jpg",
+      "group": 7,
+      "caption": "Gallery image 7",
+      "lowResolution": true,
+      "preferredUrl": "https://m.media-amazon.com/images/I/818NeSe9XCL._AC_SL1500_.jpg",
+      "src": "assets/038-07.webp"
+    }
+  ]
+}
