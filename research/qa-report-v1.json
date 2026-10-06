@@ -1,0 +1,207 @@
+{
+  "browser": "System Chromium, Playwright",
+  "render_method": "Self-contained HTML via set_content; local navigation is blocked by environment policy. Storage persistence exercised with a Storage API test double.",
+  "checks": [
+    {
+      "test": "All 63 products render",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "All original links preserved",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Catalog has 11 categories",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "More than 100 browsable tags",
+      "passed": true,
+      "detail": "190"
+    },
+    {
+      "test": "All 63 embedded product photos decode",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Category filter returns four sleeping pads",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Category comparison notes expand",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Name search",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "No-result state and escaped user input",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Shop filter",
+      "passed": true,
+      "detail": "[19, 20, 21, 22, 23, 28, 29, 35, 36]"
+    },
+    {
+      "test": "Exactly 9 reference prices",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Exactly 10 shared prices",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Exactly 44 unknown prices",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Tag filter",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Price sorting puts unknowns last",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Save buttons and count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Saved pack contains selected products",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Pack checklist",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Exported pack backup is valid JSON",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Escape dismisses modal",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Four-item comparison limit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Comparison table has four product columns",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Product details include exact original URL and sources",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Night theme toggles",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Motion preference swaps animations for static assets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Pack state restores from Storage API",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Theme/motion state restores",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Packed checkmarks restore",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "Import merges rather than replaces",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "No JavaScript exceptions in functional tests",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "test": "mobile: no horizontal document overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "mobile: OS reduced motion respected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "mobile: detail dialog stays in viewport",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "mobile: list view",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "mobile: list has no document overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "small: no horizontal document overflow",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "small: OS reduced motion respected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "small: detail dialog stays in viewport",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "small: list view",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "small: list has no document overflow",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "javascript_errors": []
+}

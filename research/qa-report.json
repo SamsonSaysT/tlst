@@ -1,0 +1,487 @@
+{
+  "release": "2.0.0",
+  "summary": {
+    "passed": 89,
+    "failed": 0
+  },
+  "suites": {
+    "desktop": {
+      "version": "2.0.0",
+      "engine": "System Chromium via Playwright",
+      "method": "Self-contained HTML loaded with set_content. Navigation is restricted by this environment; persistence is tested with a Storage API double. Touch taps and CDP touch drags are synthesized, not physical hardware.",
+      "checks": [
+        {
+          "name": "Old auto-light preference migrates to dark",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "All 63 products retained",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Sidebar cat is above categories",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Desktop sidebar bounded and independently scrollable",
+          "pass": true,
+          "detail": "{'client': 529, 'scroll': 685, 'overflow': 'auto'}"
+        },
+        {
+          "name": "Mouse wheel moves menu without moving page",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Cat stays pinned while menu scrolls",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Last sidebar category works from deep catalog",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Desktop shop filter retained",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Reference price records unchanged",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Shared price records unchanged",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Unverified prices stay unverified",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Search still works",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Desktop closing returns to exact scroll",
+          "pass": true,
+          "detail": "{'saved': 2141.0, 'restored': 2141}"
+        },
+        {
+          "name": "Light toggle remains and persists v2 choice",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Explicit light preference restores",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "No JavaScript exceptions",
+          "pass": true,
+          "detail": "[]"
+        }
+      ],
+      "errors": []
+    },
+    "mobile": {
+      "version": "2.0.0",
+      "engine": "System Chromium via Playwright",
+      "method": "Self-contained HTML loaded with set_content. Navigation is restricted by this environment; persistence is tested with a Storage API double. Touch taps and CDP touch drags are synthesized, not physical hardware.",
+      "checks": [
+        {
+          "name": "Mobile opens dark, with comfortable list",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Inputs are 16px without disabling zoom",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Explore goes directly to collection",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Touch swipe scrolls page rather than opening a product",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Search band sticks below header",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Category panel has its own native touch scroll",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Category scroll leaves background position frozen",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Far-down category closes panel and returns to section start",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Full mobile filters combine category, shop and tags",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Result button has live count",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Detail bottom actions stay in view",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Save works in mobile sticky detail bar",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Toasts are in visible dialog layer",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Browser Back closes details, not the site",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Packing checkboxes work on touch",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Pack detail is a nested window",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Back returns to pack with checkmark intact",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Backup keeps saved and packed IDs",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Comparison caps at four",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Mobile comparison defaults to swipe cards",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Compared cards respond to native horizontal swipes",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Full table remains available and scrolls without page overflow",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Next product browses current category",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Previous returns to the right product",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Motion toggle uses still assets",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "No JavaScript exceptions",
+          "pass": true,
+          "detail": "[]"
+        }
+      ],
+      "errors": []
+    },
+    "viewports": {
+      "version": "2.0.0",
+      "engine": "System Chromium via Playwright",
+      "method": "Self-contained HTML loaded with set_content. Navigation is restricted by this environment; persistence is tested with a Storage API double. Touch taps and CDP touch drags are synthesized, not physical hardware.",
+      "checks": [
+        {
+          "name": "small: no horizontal page overflow",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "small: bottom navigation visible",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "small: sheet fits viewport",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "small: filter body scrolls, footer stays reachable",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "android: no horizontal page overflow",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "android: bottom navigation visible",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "android: sheet fits viewport",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "android: filter body scrolls, footer stays reachable",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "iphone: no horizontal page overflow",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "iphone: bottom navigation visible",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "iphone: sheet fits viewport",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "iphone: filter body scrolls, footer stays reachable",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "OS reduced motion wins over preference",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "large-phone: no horizontal page overflow",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "large-phone: bottom navigation visible",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "large-phone: sheet fits viewport",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "large-phone: filter body scrolls, footer stays reachable",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "tablet: no horizontal page overflow",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "tablet: bottom navigation visible",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "tablet: sheet fits viewport",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "tablet: filter body scrolls, footer stays reachable",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "landscape: no horizontal page overflow",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "landscape: bottom navigation visible",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "landscape: sheet fits viewport",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "landscape: filter body scrolls, footer stays reachable",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "short-desktop: no horizontal page overflow",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "wide: no horizontal page overflow",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Rotation/resize returns shared controls to desktop",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "No JavaScript exceptions",
+          "pass": true,
+          "detail": "[]"
+        }
+      ],
+      "errors": []
+    },
+    "audio": {
+      "version": "2.0.0",
+      "engine": "System Chromium via Playwright",
+      "method": "Standalone HTML loaded using set_content; synthesized trusted taps; actual AudioContext wrapped only to count nodes. Browser storage simulated because localhost navigation is blocked. Physical speakers/Safari not tested.",
+      "checks": [
+        {
+          "name": "First visit starts dark with sounds enabled",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "No audio context or tones created before user interaction",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "First trusted tap starts audio context",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Interaction chirp is actually scheduled",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Settings matches enabled default",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Mute suppresses all subsequent pet tones",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Explicit mute is persisted with new schema",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Explicit mute restores on next load",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Single header tap re-enables sounds",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Old auto-off default migrates once to requested sound-on",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Missing audio API never breaks products or saved pack",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Blocked storage still allows in-memory saving",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Storage failure explains export recovery",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Export still works when storage is blocked",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Clipboard fallback is a reachable selectable text panel",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "Clipboard fallback returns to pack with find intact",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "All product data identical to original delivery",
+          "pass": true,
+          "detail": ""
+        },
+        {
+          "name": "No JavaScript exceptions",
+          "pass": true,
+          "detail": "[]"
+        }
+      ],
+      "errors": []
+    }
+  },
+  "note": "Final built HTML tested. No physical Safari/iOS/Android or public-host verification. See README for exact method. Product records unchanged; no new retailer price audit."
+}
