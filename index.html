@@ -11,7 +11,7 @@
 try { const p=JSON.parse(localStorage.getItem('tonys-list:prefs:v1')||'{}');
  document.documentElement.dataset.theme=p?.themeSchema===2&&p.theme==='day'?'day':'night';
  document.querySelector('meta[name="theme-color"]').content=document.documentElement.dataset.theme==='night'?'#101e17':'#213e2b';
-} catch { /* Dark remains the offline/storage-blocked default. */ }</script><style>
+} catch { /* Dark remains the offline/storage-blocked default. */ }</script><script>try { if (window.matchMedia?.('(display-mode: standalone)').matches || navigator.standalone === true) document.documentElement.classList.add('standalone-app'); } catch {}</script><style>
 /* tonys list — a small-web field guide. No external CSS or fonts. */
 :root{--paper:#f4f2e8;--ink:#233e2c;--muted:#617063;--line:#bdc6b6;--panel:#fbfaf4;--shade:#e5e8d9;--green:#284e35;--highlight:#dceaab;--pink:#eec6d1;--orange:#b54d25;--accent:#8c351a;--white:#fff;--shadow:#adbaa0;--header:#213e2b;--headtext:#f4f4df;--focus:#9b321e;--font:'Trebuchet MS',Verdana,Arial,sans-serif;--mono:'Courier New',monospace;color-scheme:light}
 [data-theme=night]{--paper:#182a23;--ink:#e2e6c9;--muted:#b0bbac;--line:#52675b;--panel:#23372c;--shade:#2c4332;--green:#c3d59d;--highlight:#3f5533;--pink:#613d4c;--orange:#f5ac80;--accent:#ffb987;--white:#e9ecd8;--shadow:#0e1c16;--header:#101e17;--headtext:#e7ecca;--focus:#ffb89e;color-scheme:dark}
@@ -516,6 +516,64 @@ body.modal-open .toast{bottom:calc(var(--safe-bottom) + 94px)}
 .gallery-enlarge{min-height:0;overflow:hidden}
 .gallery-enlarge img{width:auto;height:auto;max-width:100%;max-height:calc(var(--gallery-stage-height) - 40px);object-fit:contain}
 @media(max-width:760px), (max-width:1024px) and (pointer:coarse){.gallery-stage{--gallery-stage-height:280px}}
+
+/* ======================================================================
+   3.1 — disappearing mobile chrome + dense market browse.
+   The mobile reference is product-first: roomy images, tight metadata,
+   no SaaS cards. The existing grid and comfortable list stay available.
+   ====================================================================== */
+.grid.market-view{grid-template-columns:repeat(4,minmax(0,1fr));gap:26px 16px}
+.market-view .product{border:0;background:transparent;box-shadow:none;animation-duration:.22s}
+.market-view .product:hover{border-color:transparent;box-shadow:none}
+.market-view .product-photo{height:auto;aspect-ratio:1/1;background:#fff;border:1px solid var(--line);padding:0;overflow:hidden}
+.market-view .product-photo>.image-button{padding:7px}
+.market-view .product-photo img{height:100%;width:100%;object-fit:contain;transform:none!important}
+.market-view .photo-id,.market-view .photo-count{display:none}
+.market-view .save-btn{top:7px;right:7px;background:rgba(255,255,255,.94);border-color:#d0d8c8}
+.market-view .product-info{padding:9px 2px 0;display:flex;min-width:0}
+.market-view .product-meta{font-size:8.5px;line-height:1.3;margin:0 0 5px;gap:5px;white-space:nowrap;overflow:hidden}
+.market-view .product-meta span:first-child{overflow:hidden;text-overflow:ellipsis}
+.market-view .product h3{font-size:13px;line-height:1.34;margin:0 0 7px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;min-height:2.68em}
+.market-view .card-desc,.market-view .card-tags,.market-view .card-bottom,.market-view .store-link{display:none!important}
+.market-view .card-price{display:block;margin-top:auto}
+.market-view .price-amount{font-size:18px;letter-spacing:-.45px}
+.market-view .price-amount.unknown{font-size:13px}
+.market-view .price-provenance{font-size:8.5px;line-height:1.35;margin-top:3px;display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.market-view .price-provenance:before{width:4px;height:4px;margin-right:4px}
+
+@media(max-width:760px), (max-width:1024px) and (pointer:coarse){
+  /* Normal mobile browser chrome already owns the status-bar inset. Avoid
+     applying it twice; only standalone/PWA mode gets the safe-area padding. */
+  :root{--topbar-h:56px}
+  .topbar{padding-top:0!important;transition:transform .22s cubic-bezier(.2,.8,.2,1);will-change:transform}
+  html.standalone-app .topbar{padding-top:env(safe-area-inset-top,0px)!important}
+  html.standalone-app{--topbar-h:calc(56px + env(safe-area-inset-top,0px))}
+  .catalog-controls{transition:transform .22s cubic-bezier(.2,.8,.2,1),box-shadow .22s ease;will-change:transform}
+  body.chrome-hidden .topbar{transform:translateY(calc(-1 * var(--topbar-h)))}
+  body.chrome-hidden .catalog-controls{transform:translateY(calc(-100% - var(--topbar-h) - 2px))}
+  body.chrome-hidden .catalog-controls{box-shadow:none}
+  .grid.market-view{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 12px}
+  .market-view .product-photo{height:auto!important;aspect-ratio:1/1;padding:0!important}
+  .market-view .product-photo>.image-button{height:100%;padding:6px}
+  .market-view .product-photo img{height:100%!important;width:100%;object-fit:contain}
+  .market-view .product-info{padding:8px 1px 1px}
+  .market-view .product-meta{font-size:9px;margin-bottom:5px}
+  .market-view .product h3{font-size:14px;line-height:1.34;margin-bottom:7px;min-height:2.68em}
+  .market-view .price-amount{font-size:20px}
+  .market-view .price-amount.unknown{font-size:14px}
+  .market-view .price-provenance{font-size:9.5px}
+  .market-view .save-btn{width:40px;height:40px;min-width:40px;min-height:40px;padding:9px;top:6px;right:6px}
+  .viewtools{align-items:center}
+}
+@media(max-width:390px){
+  .grid.market-view{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:18px 10px}
+  .grid.market-view .product-photo{height:auto!important}
+  .grid.market-view .product-photo img{height:100%!important}
+  .market-view .product h3{font-size:13px}
+  .market-view .price-amount{font-size:18px}
+}
+@media(prefers-reduced-motion:reduce){.topbar,.catalog-controls{transition:none!important}}
+
 </style>
 </head>
 <body class="welcome" id="top">
@@ -537,7 +595,7 @@ body.modal-open .toast{bottom:calc(var(--safe-bottom) + 94px)}
 <symbol id="i-soap" viewBox="0 0 24 24"><rect height="10" rx="3" width="16" x="4" y="11"></rect><circle cx="7" cy="5" r="2"></circle><circle cx="15" cy="6" r="3"></circle><path d="M8 15h8 M8 18h5"></path></symbol>
 <symbol id="i-search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m16 16 5 5"></path></symbol>
 <symbol id="i-filter" viewBox="0 0 24 24"><path d="M3 6h18 M3 12h18 M3 18h18 M7 3v6 M16 9v6 M10 15v6"></path></symbol>
-<symbol id="i-grid" viewBox="0 0 24 24"><path d="M3 3h7v7H3Z M14 3h7v7h-7Z M3 14h7v7H3Z M14 14h7v7h-7Z"></path></symbol>
+<symbol id="i-grid" viewBox="0 0 24 24"><path d="M3 3h7v7H3Z M14 3h7v7h-7Z M3 14h7v7H3Z M14 14h7v7h-7Z"></path></symbol><symbol id="i-market" viewBox="0 0 24 24"><rect x="3" y="3" width="8" height="8"/><rect x="13" y="3" width="8" height="8"/><path d="M3 14h8v7H3zM13 14h8v7h-8z"/><path d="M5 9h4M15 9h4M5 19h4M15 19h4"/></symbol>
 <symbol id="i-list" viewBox="0 0 24 24"><path d="M8 5h13 M8 12h13 M8 19h13 M3 5h1 M3 12h1 M3 19h1"></path></symbol>
 <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14 M13 6l6 6-6 6"></path></symbol>
 <symbol id="i-external" viewBox="0 0 24 24"><path d="M14 3h7v7 M21 3 10 14 M10 3H3v18h18v-7"></path></symbol>
@@ -575,7 +633,7 @@ body.modal-open .toast{bottom:calc(var(--safe-bottom) + 94px)}
 <div class="filter-selects"><label class="field">Shop<select id="store-filter"><option value="">Every shop</option><option>Amazon</option><option>AliExpress</option></select></label><label class="field">Brand<select id="brand-filter"><option value="">Every brand</option></select></label><label class="field">Price record<select id="price-filter"><option value="">All price records</option><option value="capture">Captured prices — no welcome offer</option><option value="welcome">New-shopper-only offers</option><option value="known">Any recorded price</option><option value="unknown">No new product-page capture</option><option value="reference">Earlier brand-site reference</option><option value="under25">Under $25 — excludes welcome offers</option><option value="under50">Under $50 — excludes welcome offers</option></select></label></div>
 <div class="tag-filter-head"><span>Explore tags · matches <strong>all</strong> selected tags</span><label class="sr" for="tag-search">Find a tag</label><input autocomplete="off" enterkeyhint="search" id="tag-search" placeholder="Find a tag…" type="search"/></div><div aria-label="Filter by tags" class="tag-cloud" id="tag-cloud"></div>
 </div></div>
-<div class="toolbar"><div class="quickfilters"><button aria-pressed="false" class="quickchip" data-action="saved-only" id="saved-chip"><svg class="icon"><use href="#i-heart"></use></svg>Saved</button><button aria-pressed="false" class="quickchip" data-action="tag" data-tag="Overnight">Overnight</button><button aria-pressed="false" class="quickchip" data-action="tag" data-tag="Camp comfort">Camp comfort</button><button aria-pressed="false" class="quickchip" data-action="tag" data-tag="Cold-weather gear">Chilly nights</button></div><div class="viewtools"><label class="sr" for="sort">Sort gear</label><select class="sort" id="sort"><option value="original">Tony’s order</option><option value="name">Name A–Z</option><option value="price-low">Recorded price ↑</option><option value="price-high">Recorded price ↓</option><option value="weight">Listed weight ↑</option><option value="category">Category A–Z</option></select><button aria-label="Grid view" aria-pressed="true" class="view-btn" data-action="view" data-view="grid"><svg class="icon"><use href="#i-grid"></use></svg></button><button aria-label="List view" aria-pressed="false" class="view-btn" data-action="view" data-view="list"><svg class="icon"><use href="#i-list"></use></svg></button></div></div>
+<div class="toolbar"><div class="quickfilters"><button aria-pressed="false" class="quickchip" data-action="saved-only" id="saved-chip"><svg class="icon"><use href="#i-heart"></use></svg>Saved</button><button aria-pressed="false" class="quickchip" data-action="tag" data-tag="Overnight">Overnight</button><button aria-pressed="false" class="quickchip" data-action="tag" data-tag="Camp comfort">Camp comfort</button><button aria-pressed="false" class="quickchip" data-action="tag" data-tag="Cold-weather gear">Chilly nights</button></div><div class="viewtools"><label class="sr" for="sort">Sort gear</label><select class="sort" id="sort"><option value="original">Tony’s order</option><option value="name">Name A–Z</option><option value="price-low">Recorded price ↑</option><option value="price-high">Recorded price ↓</option><option value="weight">Listed weight ↑</option><option value="category">Category A–Z</option></select><button aria-label="Grid view" aria-pressed="true" class="view-btn" data-action="view" data-view="grid"><svg class="icon"><use href="#i-grid"></use></svg></button><button aria-label="List view" aria-pressed="false" class="view-btn" data-action="view" data-view="list"><svg class="icon"><use href="#i-list"></use></svg></button><button aria-label="Compact shop view" aria-pressed="false" class="view-btn" data-action="view" data-view="market" title="Compact shop view"><svg class="icon"><use href="#i-market"></use></svg></button></div></div>
 <div class="active-filters" id="active-filters"></div>
 <details class="category-guide" hidden="" id="category-guide"><summary id="guide-title">What’s the difference?</summary><p id="guide-text"></p></details>
 <p class="results-note">USD · recorded prices, not live quotes. <button data-action="about">What do the price labels mean?</button></p>
@@ -627,7 +685,7 @@ body.modal-open .toast{bottom:calc(var(--safe-bottom) + 94px)}
   if (!prefs || typeof prefs !== 'object') prefs = {};
   const state = {
     q:'', category:'', tags:new Set(), brand:'', shop:'', price:'', sort:'original', savedOnly:false,
-    view:mobileLayout.matches ? (prefs.mobileView === 'grid' ? 'grid' : 'list') : (prefs.desktopView === 'list' || (!prefs.desktopView && prefs.view === 'list') ? 'list' : 'grid'), saved:new Set(validIds(load('tonys-list:saved:v1', []))),
+    view:mobileLayout.matches ? (['grid','list','market'].includes(prefs.mobileView) ? prefs.mobileView : 'list') : (['grid','list','market'].includes(prefs.desktopView) ? prefs.desktopView : (prefs.view === 'list' ? 'list' : 'grid')), saved:new Set(validIds(load('tonys-list:saved:v1', []))),
     packed:new Set(validIds(load('tonys-list:packed:v1', []))), comparison:new Set(),
     theme:prefs.themeSchema === 2 && prefs.theme === 'day' ? 'day' : 'night', motion:prefs.motion !== false, sound:prefs.soundSchema === 2 ? prefs.sound !== false : true
   };
@@ -856,6 +914,7 @@ body.modal-open .toast{bottom:calc(var(--safe-bottom) + 94px)}
     $('#result-count').textContent=`${shown.length} / ${data.length} finds`;
     $('#gear-grid').innerHTML=shown.map(card).join('');
     $('#gear-grid').classList.toggle('list-view',state.view==='list');
+    $('#gear-grid').classList.toggle('market-view',state.view==='market');
     $('#empty').hidden=shown.length>0;
     $('#catalog-bottom-count').textContent=shown.length?`${shown.length} finds in this little corner of the woods.`:'The whole collection is one clear-all away.';
     $('#search-clear').hidden=!state.q;
@@ -1127,6 +1186,23 @@ body.modal-open .toast{bottom:calc(var(--safe-bottom) + 94px)}
     const prev=$('[data-action="compare-step"][data-step="-1"]'),next=$('[data-action="compare-step"][data-step="1"]');
     if(prev)prev.disabled=index<=0;if(next)next.disabled=index>=cards.length-1;
   }
+  // Mobile browser chrome: hide the Tony/search bars while moving down and
+  // restore them immediately on upward intent. The bottom dock never moves.
+  let lastPageY=Math.max(0,window.scrollY),chromeRaf=0;
+  function showAutoChrome(){document.body.classList.remove('chrome-hidden');}
+  function updateAutoChrome(){
+    chromeRaf=0;
+    const y=Math.max(0,window.scrollY),dy=y-lastPageY;
+    const focused=document.activeElement;
+    const holdOpen=!mobileLayout.matches||document.body.classList.contains('modal-open')||document.body.classList.contains('keyboard-open')||focused===$('#search')||focused?.closest?.('.catalog-controls');
+    if(holdOpen||y<72)showAutoChrome();
+    else if(dy>8&&y>130)document.body.classList.add('chrome-hidden');
+    else if(dy<-5)showAutoChrome();
+    lastPageY=y;
+  }
+  window.addEventListener('scroll',()=>{if(!chromeRaf)chromeRaf=requestAnimationFrame(updateAutoChrome);},{passive:true});
+  document.addEventListener('focusin',e=>{if(e.target.closest?.('.catalog-controls'))showAutoChrome();});
+  document.addEventListener('pointerdown',e=>{if(e.target.closest?.('.mobile-dock,.topbar'))showAutoChrome();},{passive:true});
   let compareRaf=0;
   document.addEventListener('scroll',e=>{
     if(e.target.id==='compare-card-track'&&!compareRaf)compareRaf=requestAnimationFrame(()=>{compareRaf=0;syncComparePosition();});
@@ -1172,8 +1248,8 @@ body.modal-open .toast{bottom:calc(var(--safe-bottom) + 94px)}
     const scroll=$('#sidebar-scroll');
     if(mobile){scroll.removeAttribute('tabindex');scroll.setAttribute('aria-label','Categories and saved finds');}
     else{scroll.tabIndex=0;scroll.setAttribute('aria-label','Categories and saved finds, independently scrollable');}
-    state.view=mobile?(prefs.mobileView==='grid'?'grid':'list'):(prefs.desktopView==='list'?'list':'grid');
-    $$('[data-action="view"]').forEach(b=>b.setAttribute('aria-label',b.dataset.view==='list'?'Comfortable list view':'Compact grid view'));
+    state.view=mobile?(['grid','list','market'].includes(prefs.mobileView)?prefs.mobileView:'list'):(['grid','list','market'].includes(prefs.desktopView)?prefs.desktopView:'grid');
+    $$('[data-action="view"]').forEach(b=>b.setAttribute('aria-label',b.dataset.view==='list'?'Comfortable list view':b.dataset.view==='market'?'Compact shop view':'Section grid view'));
     if(!mobile&&['browse-dialog','filters-dialog'].includes(modalFrames.at(-1)?.id))closeAllDialogs();
     render();syncViewport();
   }
@@ -1245,7 +1321,7 @@ body.modal-open .toast{bottom:calc(var(--safe-bottom) + 94px)}
       case 'remove-filter':state[b.dataset.key]=b.dataset.key==='savedOnly'?false:'';syncControls();render();break;
       case 'reset':reset();sound();break;
       case 'clear-search':state.q='';$('#search').value='';render();$('#search').focus();break;
-      case 'view':state.view=b.dataset.view==='list'?'list':'grid';persistPrefs();render();break;
+      case 'view':state.view=['grid','list','market'].includes(b.dataset.view)?b.dataset.view:'grid';persistPrefs();render();break;
       case 'open-pack':renderPack();openDialog('pack-dialog');sound();break;
       case 'compare-toggle':compareToggle(id,b);break;
       case 'open-compare':renderComparison();openDialog('compare-dialog');sound();break;
