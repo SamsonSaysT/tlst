@@ -1,0 +1,611 @@
+{
+  "results": [
+    {
+      "check": "128 unique product records",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "New item IDs 98\u2013129 are present",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Removed Baker ID 20, without renumbering",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No Baker text anywhere in app",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Renamed browser title",
+      "passed": true,
+      "detail": "tonys camping list \u2014 the outside collection"
+    },
+    {
+      "check": "Renamed header",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Renamed hero",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Dark default",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Sound default",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "New public version",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Shelf membership/count: Camp comfort",
+      "passed": true,
+      "detail": 10
+    },
+    {
+      "check": "Shelf membership/count: Camp kitchen",
+      "passed": true,
+      "detail": 21
+    },
+    {
+      "check": "Shelf membership/count: Clothing & rain",
+      "passed": true,
+      "detail": 16
+    },
+    {
+      "check": "Shelf membership/count: First aid",
+      "passed": true,
+      "detail": 7
+    },
+    {
+      "check": "Shelf membership/count: Hammocks & tarps",
+      "passed": true,
+      "detail": 13
+    },
+    {
+      "check": "Shelf membership/count: Hygiene",
+      "passed": true,
+      "detail": 3
+    },
+    {
+      "check": "Shelf membership/count: Lighting",
+      "passed": true,
+      "detail": 5
+    },
+    {
+      "check": "Shelf membership/count: Packs & storage",
+      "passed": true,
+      "detail": 10
+    },
+    {
+      "check": "Shelf membership/count: Shelters",
+      "passed": true,
+      "detail": 11
+    },
+    {
+      "check": "Shelf membership/count: Sleep & warmth",
+      "passed": true,
+      "detail": 9
+    },
+    {
+      "check": "Shelf membership/count: Sleeping pads",
+      "passed": true,
+      "detail": 10
+    },
+    {
+      "check": "Shelf membership/count: Tools & safety",
+      "passed": true,
+      "detail": 14
+    },
+    {
+      "check": "Shelf membership/count: Water",
+      "passed": true,
+      "detail": 8
+    },
+    {
+      "check": "Exact requested shelves #30",
+      "passed": true,
+      "detail": [
+        "Sleeping pads"
+      ]
+    },
+    {
+      "check": "Exact requested shelves #45",
+      "passed": true,
+      "detail": [
+        "Shelters",
+        "Hammocks & tarps"
+      ]
+    },
+    {
+      "check": "Exact requested shelves #61",
+      "passed": true,
+      "detail": [
+        "Sleep & warmth",
+        "Clothing & rain"
+      ]
+    },
+    {
+      "check": "Exact requested shelves #62",
+      "passed": true,
+      "detail": [
+        "Sleep & warmth",
+        "Clothing & rain"
+      ]
+    },
+    {
+      "check": "Exact requested shelves #69",
+      "passed": true,
+      "detail": [
+        "Hammocks & tarps"
+      ]
+    },
+    {
+      "check": "Exact requested shelves #75",
+      "passed": true,
+      "detail": [
+        "Sleeping pads"
+      ]
+    },
+    {
+      "check": "Exact requested shelves #76",
+      "passed": true,
+      "detail": [
+        "Tools & safety",
+        "Shelters"
+      ]
+    },
+    {
+      "check": "Exact requested shelves #81",
+      "passed": true,
+      "detail": [
+        "Sleep & warmth",
+        "Hammocks & tarps"
+      ]
+    },
+    {
+      "check": "Exact requested shelves #94",
+      "passed": true,
+      "detail": [
+        "Sleeping pads"
+      ]
+    },
+    {
+      "check": "Exact requested shelves #97",
+      "passed": true,
+      "detail": [
+        "Shelters",
+        "Hammocks & tarps"
+      ]
+    },
+    {
+      "check": "Everything has no cross-shelf duplicates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Save state shared between shelves",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Cross-shelf save counts once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Comparison shared between shelves",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "New product detail & local hero #98",
+      "passed": true,
+      "detail": [
+        597,
+        2400
+      ]
+    },
+    {
+      "check": "New product detail & local hero #99",
+      "passed": true,
+      "detail": [
+        798,
+        525
+      ]
+    },
+    {
+      "check": "New product detail & local hero #100",
+      "passed": true,
+      "detail": [
+        1495,
+        1271
+      ]
+    },
+    {
+      "check": "New product detail & local hero #101",
+      "passed": true,
+      "detail": [
+        1226,
+        676
+      ]
+    },
+    {
+      "check": "New product detail & local hero #102",
+      "passed": true,
+      "detail": [
+        906,
+        1267
+      ]
+    },
+    {
+      "check": "New product detail & local hero #103",
+      "passed": true,
+      "detail": [
+        1501,
+        326
+      ]
+    },
+    {
+      "check": "New product detail & local hero #104",
+      "passed": true,
+      "detail": [
+        995,
+        1500
+      ]
+    },
+    {
+      "check": "New product detail & local hero #105",
+      "passed": true,
+      "detail": [
+        1363,
+        1335
+      ]
+    },
+    {
+      "check": "New product detail & local hero #106",
+      "passed": true,
+      "detail": [
+        1192,
+        1167
+      ]
+    },
+    {
+      "check": "New product detail & local hero #107",
+      "passed": true,
+      "detail": [
+        1280,
+        1337
+      ]
+    },
+    {
+      "check": "New product detail & local hero #108",
+      "passed": true,
+      "detail": [
+        1057,
+        1500
+      ]
+    },
+    {
+      "check": "New product detail & local hero #109",
+      "passed": true,
+      "detail": [
+        479,
+        1500
+      ]
+    },
+    {
+      "check": "New product detail & local hero #110",
+      "passed": true,
+      "detail": [
+        1415,
+        1500
+      ]
+    },
+    {
+      "check": "New product detail & local hero #111",
+      "passed": true,
+      "detail": [
+        1223,
+        1396
+      ]
+    },
+    {
+      "check": "New product detail & local hero #112",
+      "passed": true,
+      "detail": [
+        1115,
+        735
+      ]
+    },
+    {
+      "check": "New product detail & local hero #113",
+      "passed": true,
+      "detail": [
+        913,
+        726
+      ]
+    },
+    {
+      "check": "New product detail & local hero #114",
+      "passed": true,
+      "detail": [
+        1409,
+        1273
+      ]
+    },
+    {
+      "check": "New product detail & local hero #115",
+      "passed": true,
+      "detail": [
+        1155,
+        1500
+      ]
+    },
+    {
+      "check": "New product detail & local hero #116",
+      "passed": true,
+      "detail": [
+        1348,
+        971
+      ]
+    },
+    {
+      "check": "New product detail & local hero #117",
+      "passed": true,
+      "detail": [
+        1188,
+        1500
+      ]
+    },
+    {
+      "check": "New product detail & local hero #118",
+      "passed": true,
+      "detail": [
+        1500,
+        1499
+      ]
+    },
+    {
+      "check": "New product detail & local hero #119",
+      "passed": true,
+      "detail": [
+        929,
+        939
+      ]
+    },
+    {
+      "check": "New product detail & local hero #120",
+      "passed": true,
+      "detail": [
+        679,
+        2217
+      ]
+    },
+    {
+      "check": "New product detail & local hero #121",
+      "passed": true,
+      "detail": [
+        1500,
+        1420
+      ]
+    },
+    {
+      "check": "New product detail & local hero #122",
+      "passed": true,
+      "detail": [
+        1303,
+        1500
+      ]
+    },
+    {
+      "check": "New product detail & local hero #123",
+      "passed": true,
+      "detail": [
+        1208,
+        1500
+      ]
+    },
+    {
+      "check": "New product detail & local hero #124",
+      "passed": true,
+      "detail": [
+        1461,
+        1398
+      ]
+    },
+    {
+      "check": "New product detail & local hero #125",
+      "passed": true,
+      "detail": [
+        670,
+        1185
+      ]
+    },
+    {
+      "check": "New product detail & local hero #126",
+      "passed": true,
+      "detail": [
+        1500,
+        753
+      ]
+    },
+    {
+      "check": "New product detail & local hero #127",
+      "passed": true,
+      "detail": [
+        1500,
+        1374
+      ]
+    },
+    {
+      "check": "New product detail & local hero #128",
+      "passed": true,
+      "detail": [
+        679,
+        2146
+      ]
+    },
+    {
+      "check": "New product detail & local hero #129",
+      "passed": true,
+      "detail": [
+        800,
+        800
+      ]
+    },
+    {
+      "check": "Search finds DL30",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "DL30 new-shopper price retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "New brand filter",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Legacy pack restoration from seeded storage; deleted item ignored",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Packed checkmark preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Desktop sidebar independently scrollable",
+      "passed": true,
+      "detail": {
+        "h": 349,
+        "sh": 773,
+        "overflow": "auto"
+      }
+    },
+    {
+      "check": "Mobile header fits 320\u00d7740",
+      "passed": true,
+      "detail": {
+        "overlap": false,
+        "bar": 57,
+        "width": 320,
+        "win": 320
+      }
+    },
+    {
+      "check": "Mobile header fits 360\u00d7800",
+      "passed": true,
+      "detail": {
+        "overlap": false,
+        "bar": 57,
+        "width": 360,
+        "win": 360
+      }
+    },
+    {
+      "check": "Mobile header fits 390\u00d7844",
+      "passed": true,
+      "detail": {
+        "overlap": false,
+        "bar": 57,
+        "width": 390,
+        "win": 390
+      }
+    },
+    {
+      "check": "Mobile view grid",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Mobile view list",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Mobile view market",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Compact feed stays 2 columns",
+      "passed": true,
+      "detail": 2
+    },
+    {
+      "check": "Downscroll hides bars",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Upscroll restores bars",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Mobile cross-shelf filter",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Mobile compact preference restores from seeded storage",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Mobile header fits 430\u00d7932",
+      "passed": true,
+      "detail": {
+        "overlap": false,
+        "bar": 57,
+        "width": 430,
+        "win": 430
+      }
+    },
+    {
+      "check": "Mobile header fits 768\u00d71024",
+      "passed": true,
+      "detail": {
+        "overlap": false,
+        "bar": 57,
+        "width": 768,
+        "win": 768
+      }
+    },
+    {
+      "check": "Mobile header fits 915\u00d7412",
+      "passed": true,
+      "detail": {
+        "overlap": false,
+        "bar": 57,
+        "width": 915,
+        "win": 915
+      }
+    },
+    {
+      "check": "No uncaught JavaScript errors",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "pageErrors": []
+}
